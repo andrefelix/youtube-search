@@ -33,28 +33,35 @@ describe('SearchTerm', () => {
     const mockResponse = makeResponse();
     const mockRequest = makeRequest();
 
-    mockRequest.query = { term: 'term' };
+    mockRequest.query = { term: 'term', minutesAvailableWeek: '[]' };
 
     searchTerm.get(mockRequest, mockResponse);
     expect(mockResponse.status).toHaveBeenNthCalledWith(1, 200);
   });
 
-  it('deveria retornar statusCode 400 caso a query term não seja especificada', () => {
+  it('deveria retornar statusCode 400 com a mensagem de que a query term não foi especificada', () => {
     const mockResponse = makeResponse();
     const mockRequest = makeRequest();
 
     searchTerm.get(mockRequest, mockResponse);
     expect(mockResponse.status).toHaveBeenNthCalledWith(1, 400);
-  });
-
-  it('deveria retornar menssagem dizendo que o parâmetro term não foi especificado', () => {
-    const mockResponse = makeResponse();
-    const mockRequest = makeRequest();
-
-    searchTerm.get(mockRequest, mockResponse);
     expect(mockResponse.json).toBeCalledTimes(1);
     expect(mockResponse.json).toBeCalledWith(
       makeErrorResponse(missingParamError('term'), 400)
+    );
+  });
+
+  it('deveria retornar statusCode 400 com a mensagem de que a query minutesAvailableWeek não foi especificada', () => {
+    const mockResponse = makeResponse();
+    const mockRequest = makeRequest();
+
+    mockRequest.query = { term: 'term' };
+
+    searchTerm.get(mockRequest, mockResponse);
+    expect(mockResponse.status).toHaveBeenNthCalledWith(1, 400);
+    expect(mockResponse.json).toBeCalledTimes(1);
+    expect(mockResponse.json).toBeCalledWith(
+      makeErrorResponse(missingParamError('minutesAvailableWeek'), 400)
     );
   });
 });
