@@ -9,15 +9,28 @@ interface SearchTermInterface {
 const SearchTerm = (): SearchTermInterface => {
   const get = (request: Request, response: Response) => {
     const httpResponse = HttpResponse(response);
-    const { term } = request.query;
+    const { term, minutesAvailableWeek } = request.query as {
+      term: string;
+      minutesAvailableWeek: string;
+    };
 
     try {
       if (!term) {
         return httpResponse.badRequest(missingParamError('term'));
       }
 
+      if (!minutesAvailableWeek) {
+        return httpResponse.badRequest(
+          missingParamError('minutesAvailableWeek')
+        );
+      }
+
       return httpResponse.ok();
     } catch (err) {
+      if (process.env.NODE_ENV !== 'test') {
+        console.error(err);
+      }
+
       return httpResponse.serverError();
     }
   };
