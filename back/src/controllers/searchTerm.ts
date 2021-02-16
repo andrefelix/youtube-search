@@ -21,6 +21,11 @@ const SearchTerm = (): SearchTermInterface => {
     return data.items.map((item) => item.id.videoId);
   };
 
+  const getVideosByIDs = async (ids: Array<string>) => {
+    const data = await youtubeDataAPIService.videosByIDs(ids);
+    return data;
+  };
+
   const execute = async (request: Request, response: Response) => {
     const httpResponse = HttpResponse(response);
     const { term, minutesAvailableWeek } = request.query as {
@@ -53,6 +58,7 @@ const SearchTerm = (): SearchTermInterface => {
       }
 
       const ids = await getIDsByTerm(term);
+      const videos = await getVideosByIDs(ids);
 
       return httpResponse.ok();
     } catch (err) {

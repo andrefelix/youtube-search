@@ -7,9 +7,18 @@ const axiosInstance: AxiosInstance = axios.create({
   }
 });
 
-interface YoutubeDataAPIVideosList {
-  snippet: { title: string; description: string };
+interface YoutubeDataAPIVideoListItem {
+  snippet: {
+    title: string;
+    description: string;
+    thumbnails: { default: { url: string; width: number; height: number } };
+  };
   fileDetails: { durationMs: number };
+  player: { embedHtml: string };
+}
+
+interface YoutubeDataAPIVideosList {
+  items: Array<YoutubeDataAPIVideoListItem>;
 }
 
 interface YoutubeDataAPISearchListItem {
@@ -22,6 +31,7 @@ interface YoutubeDataAPISearchList {
 
 interface YoutubeDataAPIServiceInterface {
   searchByTerm(searchTerm: string): Promise<YoutubeDataAPISearchList>;
+  videosByIDs(ids: Array<string>): Promise<YoutubeDataAPIVideosList>;
 }
 
 const YoutubeDataAPIService = (): YoutubeDataAPIServiceInterface => {
@@ -40,7 +50,17 @@ const YoutubeDataAPIService = (): YoutubeDataAPIServiceInterface => {
     return response.data;
   };
 
-  return { searchByTerm };
+  const videosByIDs = async (
+    ids: Array<string>
+  ): Promise<YoutubeDataAPIVideosList> => {
+    const response = await axiosInstance.get('/videos', {
+      params: { part: 'snippet,fileDetails', id: ids.join(',') }
+    });
+
+    return response.data;
+  };
+
+  return { searchByTerm, videosByIDs };
 };
 
 export { YoutubeDataAPIService };
