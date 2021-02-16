@@ -29,7 +29,7 @@ const makeErrorResponse = (
 const searchTerm = SearchTerm();
 
 describe('SearchTerm', () => {
-  it('deveria retornar statusCode 200', () => {
+  it('deveria retornar statusCode 200', async () => {
     const mockResponse = makeResponse();
     const mockRequest = makeRequest();
 
@@ -38,15 +38,15 @@ describe('SearchTerm', () => {
       minutesAvailableWeek: '[1,2,3,4,5,6,7]'
     };
 
-    searchTerm.get(mockRequest, mockResponse);
+    await searchTerm.execute(mockRequest, mockResponse);
     expect(mockResponse.status).toHaveBeenNthCalledWith(1, 200);
   });
 
-  it('deveria retornar statusCode 400 com a mensagem de que a query term não foi especificada', () => {
+  it('deveria retornar statusCode 400 com a mensagem de que a query term não foi especificada', async () => {
     const mockResponse = makeResponse();
     const mockRequest = makeRequest();
 
-    searchTerm.get(mockRequest, mockResponse);
+    await searchTerm.execute(mockRequest, mockResponse);
     expect(mockResponse.status).toHaveBeenNthCalledWith(1, 400);
     expect(mockResponse.json).toBeCalledTimes(1);
     expect(mockResponse.json).toBeCalledWith(
@@ -54,13 +54,13 @@ describe('SearchTerm', () => {
     );
   });
 
-  it('deveria retornar statusCode 400 com a mensagem de que a query minutesAvailableWeek não foi especificada', () => {
+  it('deveria retornar statusCode 400 com a mensagem de que a query minutesAvailableWeek não foi especificada', async () => {
     const mockResponse = makeResponse();
     const mockRequest = makeRequest();
 
     mockRequest.query = { term: 'term' };
 
-    searchTerm.get(mockRequest, mockResponse);
+    await searchTerm.execute(mockRequest, mockResponse);
     expect(mockResponse.status).toHaveBeenNthCalledWith(1, 400);
     expect(mockResponse.json).toBeCalledTimes(1);
     expect(mockResponse.json).toBeCalledWith(
@@ -68,13 +68,13 @@ describe('SearchTerm', () => {
     );
   });
 
-  it('deveria retornar statusCode 400 com a mensagem de que a query minutesAvailableWeek é inválida', () => {
+  it('deveria retornar statusCode 400 com a mensagem de que a query minutesAvailableWeek é inválida', async () => {
     const mockResponse = makeResponse();
     const mockRequest = makeRequest();
 
     mockRequest.query = { term: 'term', minutesAvailableWeek: 'invalid-value' };
 
-    searchTerm.get(mockRequest, mockResponse);
+    await searchTerm.execute(mockRequest, mockResponse);
     expect(mockResponse.status).toHaveBeenNthCalledWith(1, 400);
     expect(mockResponse.json).toBeCalledTimes(1);
     expect(mockResponse.json).toBeCalledWith(

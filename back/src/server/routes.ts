@@ -5,7 +5,7 @@ const router = Router();
 const searchterm = SearchTerm();
 
 const Routes = (app: Application): void => {
-  router.get('/search/term', searchterm.get);
+  router.get('/search/term', searchterm.execute);
 
   app.use(router);
 };

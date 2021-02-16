@@ -2,6 +2,9 @@ import { Request, Response } from 'express';
 import { HttpResponse } from '../helpers/httpResponse';
 import { missingParamError, invalidParamError } from '../helpers/paramError';
 import { isJSON } from '../helpers/jsonValidate';
+import { YoutubeDataAPIService } from '../services/youtubeDataAPIService';
+
+const youtubeDataAPIService = YoutubeDataAPIService();
 
 interface SearchTermResponseInterface {
   mostUsedWords: Array<string>;
@@ -9,11 +12,16 @@ interface SearchTermResponseInterface {
 }
 
 interface SearchTermInterface {
-  get(resquest: Request, response: Response): Response;
+  execute(resquest: Request, response: Response): Promise<Response>;
 }
 
 const SearchTerm = (): SearchTermInterface => {
-  const get = (request: Request, response: Response) => {
+  const getIDsByTerm = async (term: string): Promise<Array<string>> => {
+    const data = await youtubeDataAPIService.searchByTerm(term);
+    return data.items.map((item) => item.id.videoId);
+  };
+
+  const execute = async (request: Request, response: Response) => {
     const httpResponse = HttpResponse(response);
     const { term, minutesAvailableWeek } = request.query as {
       term: string;
@@ -44,6 +52,8 @@ const SearchTerm = (): SearchTermInterface => {
         );
       }
 
+      const ids = await getIDsByTerm(term);
+
       return httpResponse.ok();
     } catch (err) {
       if (process.env.NODE_ENV !== 'test') {
@@ -54,7 +64,7 @@ const SearchTerm = (): SearchTermInterface => {
     }
   };
 
-  return { get };
+  return { execute };
 };
 
 export { SearchTerm };
