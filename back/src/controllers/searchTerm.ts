@@ -1,6 +1,7 @@
 import { Request, Response } from 'express';
 import { HttpResponse } from '../helpers/httpResponse';
-import { missingParamError } from '../helpers/paramError';
+import { missingParamError, invalidParamError } from '../helpers/paramError';
+import { isJSON } from '../helpers/jsonValidate';
 
 interface SearchTermInterface {
   get(resquest: Request, response: Response): Response;
@@ -22,6 +23,15 @@ const SearchTerm = (): SearchTermInterface => {
       if (!minutesAvailableWeek) {
         return httpResponse.badRequest(
           missingParamError('minutesAvailableWeek')
+        );
+      }
+
+      if (
+        !isJSON(minutesAvailableWeek) ||
+        !Array.isArray(JSON.parse(minutesAvailableWeek))
+      ) {
+        return httpResponse.badRequest(
+          invalidParamError('minutesAvailableWeek')
         );
       }
 
