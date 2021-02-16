@@ -33,7 +33,10 @@ describe('SearchTerm', () => {
     const mockResponse = makeResponse();
     const mockRequest = makeRequest();
 
-    mockRequest.query = { term: 'term', minutesAvailableWeek: '[]' };
+    mockRequest.query = {
+      term: 'term',
+      minutesAvailableWeek: '[1,2,3,4,5,6,7]'
+    };
 
     searchTerm.get(mockRequest, mockResponse);
     expect(mockResponse.status).toHaveBeenNthCalledWith(1, 200);

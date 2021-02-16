@@ -3,6 +3,11 @@ import { HttpResponse } from '../helpers/httpResponse';
 import { missingParamError, invalidParamError } from '../helpers/paramError';
 import { isJSON } from '../helpers/jsonValidate';
 
+interface SearchTermResponseInterface {
+  mostUsedWords: Array<string>;
+  daysToWatch: number;
+}
+
 interface SearchTermInterface {
   get(resquest: Request, response: Response): Response;
 }
@@ -26,9 +31,13 @@ const SearchTerm = (): SearchTermInterface => {
         );
       }
 
+      const minutesAvailableArr: Array<number> = isJSON(minutesAvailableWeek)
+        ? JSON.parse(minutesAvailableWeek)
+        : [];
+
       if (
-        !isJSON(minutesAvailableWeek) ||
-        !Array.isArray(JSON.parse(minutesAvailableWeek))
+        minutesAvailableArr.length !== 7 ||
+        minutesAvailableArr.some((val) => !Number.isInteger(val))
       ) {
         return httpResponse.badRequest(
           invalidParamError('minutesAvailableWeek')
