@@ -26,7 +26,7 @@ npm run lint
 npm run lint:fix
 ```
 ### Informações para arquivo .env
-É necessário alterar o arquivo .env no pedaço:
+É necessário alterar o arquivo .env na parte:
 ```
 DATA_API_KEY=[YOUR_API_KEY]
 ````
