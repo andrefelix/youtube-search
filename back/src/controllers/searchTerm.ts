@@ -71,8 +71,16 @@ const solveMostUsedWords = (
   let words: Array<string> = [];
 
   items.forEach((item) => {
-    words = [...words, ...item.title.toLocaleLowerCase().split(' ')];
-    words = [...words, ...item.description.toLocaleLowerCase().split(' ')];
+    const textArr = `${item.title} ${item.description}`
+      .toLocaleLowerCase()
+      .replace(
+        /([\uE000-\uF8FF]|\uD83C[\uDF00-\uDFFF]|\uD83D[\uDC00-\uDDFF])/g, // substitui emogis por espaços
+        ' '
+      )
+      .replace(/\s\s+/g, ' ') // substitui vários espaços por 1 apenas
+      .split(' ');
+
+    words = [...words, ...textArr];
   });
 
   words.forEach((word) => {
