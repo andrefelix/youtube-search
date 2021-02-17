@@ -1,4 +1,9 @@
 # Youtube Search
+API que realiza uma busca no Youtube, baseado em uma frase e informa:
+
+- As 5 palavras mais utilizadas nos títulos e descrições.
+- O tempo em dias, que o usuário levará para assistir todos os vídeos, informado sua limitação diária em minutos.
+- Informações dos vídeos para que os mesmos possam ser reproduzidos em navegadores.
 
 ## Instala pacotes do projeto
 ```
