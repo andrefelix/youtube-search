@@ -1,5 +1,5 @@
 import { Request } from 'express';
-import { SearchTerm } from '../controllers/searchTerm';
+import { SearchTerm, calculateDaysToWatch } from '../controllers/searchTerm';
 import { ErrorResponseInterface } from '../interfaces/errorResponseInterface';
 import { missingParamError, invalidParamError } from '../helpers/paramError';
 
@@ -80,5 +80,37 @@ describe('SearchTerm', () => {
     expect(mockResponse.json).toBeCalledWith(
       makeErrorResponse(invalidParamError('minutesAvailableWeek'), 400)
     );
+  });
+
+  it('deveria retornar a quantidade de dias exatos para terminar os vídeos', () => {
+    const minutesWeek = [15, 120, 30, 150, 20, 40, 90];
+    const durations = [20, 30, 60, 90, 200, 30, 40, 20, 60, 15];
+    const days = calculateDaysToWatch(minutesWeek, durations);
+
+    expect(days).toEqual(8);
+  });
+
+  it('deveria retornar 0 dias quando não houver vídeos co duração inferior ao minuto máximo disponível na semana', () => {
+    const minutesWeek = [15, 120, 30, 150, 20, 40, 90];
+    const durations = [151, 151, 151, 151, 151, 151];
+    const days = calculateDaysToWatch(minutesWeek, durations);
+
+    expect(days).toEqual(0);
+  });
+
+  it('deveria retornar 1 caso houver um único vídeo e o tempo do mesmo for igual ao tempo disponível no primeiro dia da semana', () => {
+    const minutesWeek = [15, 120, 30, 150, 20, 40, 90];
+    const durations = [15];
+    const days = calculateDaysToWatch(minutesWeek, durations);
+
+    expect(days).toEqual(1);
+  });
+
+  it('deveria retornar 1 dia caso todas as durações forem 1 e o tempo do primeiro dia da semana for 15', () => {
+    const minutesWeek = [15, 120, 30, 150, 20, 40, 90];
+    const durations = new Array(15).fill(1);
+    const days = calculateDaysToWatch(minutesWeek, durations);
+
+    expect(days).toEqual(1);
   });
 });
