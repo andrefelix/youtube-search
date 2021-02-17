@@ -26,4 +26,8 @@ npm run lint
 npm run lint:fix
 ```
 ### Informações para arquivo .env
-É necessário substituir no arquivo .env, sua API KEY do Youtube.
+É necessário alterar o arquivo .env no pedaço:
+```
+DATA_API_KEY=[YOUR_API_KEY]
+````
+onde YOUR_API_KEY deve ser substituido pela sua API KEY do Youtube.
