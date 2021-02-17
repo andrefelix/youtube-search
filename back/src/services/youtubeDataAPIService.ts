@@ -1,4 +1,5 @@
 import axios, { AxiosInstance } from 'axios';
+import { YoutubeDataAPIVideoListItem } from '../interfaces/youtubeDataAPIVideoListItem';
 
 const axiosInstance: AxiosInstance = axios.create({
   baseURL: 'https://www.googleapis.com/youtube/v3',
@@ -6,16 +7,6 @@ const axiosInstance: AxiosInstance = axios.create({
     key: process.env.DATA_API_KEY
   }
 });
-
-interface YoutubeDataAPIVideoListItem {
-  snippet: {
-    title: string;
-    description: string;
-    thumbnails: { default: { url: string; width: number; height: number } };
-  };
-  fileDetails: { durationMs: number };
-  player: { embedHtml: string };
-}
 
 interface YoutubeDataAPIVideosList {
   items: Array<YoutubeDataAPIVideoListItem>;

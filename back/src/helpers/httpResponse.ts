@@ -4,7 +4,7 @@ import { ErrorResponseInterface } from '../interfaces/errorResponseInterface';
 interface HttpResponseInterface {
   badRequest(errorMessage: string): Response;
   serverError(): Response;
-  ok(): Response;
+  ok(data: any): Response;
 }
 
 const HttpResponse = (response: Response): HttpResponseInterface => {
@@ -22,8 +22,8 @@ const HttpResponse = (response: Response): HttpResponseInterface => {
     return response.status(500).json(body);
   };
 
-  const ok = () => {
-    return response.status(200).send();
+  const ok = (data: any) => {
+    return response.status(200).json(data);
   };
 
   return { badRequest, serverError, ok };

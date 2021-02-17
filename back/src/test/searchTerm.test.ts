@@ -44,6 +44,7 @@ describe('SearchTerm', () => {
 
     await searchTerm.execute(mockRequest, mockResponse);
     expect(mockResponse.status).toHaveBeenNthCalledWith(1, 200);
+    expect(mockResponse.json).toBeCalledTimes(1);
   });
 
   it('deveria retornar statusCode 400 com a mensagem de que a query term não foi especificada', async () => {

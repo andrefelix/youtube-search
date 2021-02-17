@@ -3,12 +3,14 @@ import { HttpResponse } from '../helpers/httpResponse';
 import { missingParamError, invalidParamError } from '../helpers/paramError';
 import { isJSON } from '../helpers/jsonValidate';
 import { YoutubeDataAPIService } from '../services/youtubeDataAPIService';
+import { YoutubeDataAPIVideoListItem } from '../interfaces/youtubeDataAPIVideoListItem';
 
 const youtubeDataAPIService = YoutubeDataAPIService();
 
-interface SearchTermResponseInterface {
+interface SearchTermResponseDataInterface {
   mostUsedWords: Array<string>;
   daysToWatch: number;
+  videos: Array<YoutubeDataAPIVideoListItem>;
 }
 
 interface SearchTermInterface {
@@ -90,9 +92,11 @@ const SearchTerm = (): SearchTermInterface => {
     return data.items.map((item) => item.id.videoId);
   };
 
-  const getVideosByIDs = async (ids: Array<string>) => {
+  const getVideosByIDs = async (
+    ids: Array<string>
+  ): Promise<Array<YoutubeDataAPIVideoListItem>> => {
     const data = await youtubeDataAPIService.videosByIDs(ids);
-    return data;
+    return data.items;
   };
 
   const execute = async (request: Request, response: Response) => {
@@ -129,21 +133,25 @@ const SearchTerm = (): SearchTermInterface => {
       const ids = await getIDsByTerm(term);
       const videos = await getVideosByIDs(ids);
 
-      const daysToWatch = calculateDaysToWatch(
-        minutesAvailableArr,
-        videos.items.map((video) => (video.fileDetails.durationMs / 1000) * 60)
-      );
+      const responseData: SearchTermResponseDataInterface = {
+        daysToWatch: calculateDaysToWatch(
+          minutesAvailableArr,
+          videos.map((video) => (video.fileDetails.durationMs / 1000) * 60)
+        ),
 
-      const mostUsedWords = solveMostUsedWords(
-        videos.items.map((videos) => {
-          return {
-            title: videos.snippet.title,
-            description: videos.snippet.description
-          };
-        })
-      );
+        mostUsedWords: solveMostUsedWords(
+          videos.map((videos) => {
+            return {
+              title: videos.snippet.title,
+              description: videos.snippet.description
+            };
+          })
+        ),
 
-      return httpResponse.ok();
+        videos
+      };
+
+      return httpResponse.ok(responseData);
     } catch (err) {
       if (process.env.NODE_ENV !== 'test') {
         console.error(err);
