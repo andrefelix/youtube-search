@@ -1,0 +1,3056 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "dozU5RiJ4MeWEHsgJn88Viy98c4",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "qq_v1OlEQ1pl8mnE7ldQkv0qqmU",
+      "id": "wWXC66iawdI",
+      "snippet": {
+        "publishedAt": "2020-04-05T15:00:29Z",
+        "channelId": "UCsTNNzGmdiiUfRJqDpl1GKw",
+        "title": "OS PALAVRÕES DO LEAGUE OF LEGENDS! OS CAMPEÕES + BOCA SUJA DO LOLZIN E QUE SERIAM BANIDOS PELA RIOT",
+        "description": "#Leagueoflegends #zaunitas\n\nsalve meus amigos, hoje estou aqui pra fazer um vídeo bem diferente!\nestava pensando em fazer 1 conteúdo diferente \ne pq nã ofazer 1 vídeo falando sobre os campeões que te ofendem mais que os jogadores?\n\né meu amigo, ta achando que só os jogadores se ofendem por ai?\nse liga só nessa lista aqui!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wWXC66iawdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wWXC66iawdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wWXC66iawdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wWXC66iawdI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wWXC66iawdI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Laboratório de Zaun",
+        "tags": [
+          "laboratório de zaun",
+          "nóticias league of legends",
+          "league of legends"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-BR",
+        "localized": {
+          "title": "OS PALAVRÕES DO LEAGUE OF LEGENDS! OS CAMPEÕES + BOCA SUJA DO LOLZIN E QUE SERIAM BANIDOS PELA RIOT",
+          "description": "#Leagueoflegends #zaunitas\n\nsalve meus amigos, hoje estou aqui pra fazer um vídeo bem diferente!\nestava pensando em fazer 1 conteúdo diferente \ne pq nã ofazer 1 vídeo falando sobre os campeões que te ofendem mais que os jogadores?\n\né meu amigo, ta achando que só os jogadores se ofendem por ai?\nse liga só nessa lista aqui!"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT10M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ALF9WmDWbLyr7P_JCJT79j5Less",
+      "id": "5XcyZ6tWqVs",
+      "snippet": {
+        "publishedAt": "2019-11-26T14:00:00Z",
+        "channelId": "UCbAxbYKumo80GoG2_AbFmcQ",
+        "title": "\"LANSEI\" A BRABA DO OUTFIT NO LOLZIN 👍",
+        "description": "🎥 Livestream: https://bit.ly/2m7ZmFu\n📆 Vídeos novos TODOS OS DIAS, às 11 horas da manhã! \n🔔 Ativem o sininho para receber as notificações de vídeos novos!\n\n\n🎧  ACESSE NOSSO DISCORD: https://discord.gg/pimpimenta\n\n\n🎬 Edição por Teosmiranda\n \n🐦Twitter: https://twitter.com/teosmiranda\n📸 Instagram: https://www.instagram.com/teosmiranda/\n💬 Facebook: https://www.facebook.com/teosmiranda\n\n\n📱 Redes sociais do Pimpimenta:\n \n🐦Twitter:https://www.twitter.com/pimpimentalol\n📸Instagram: https://www.instagram.com/pimpimentalol\n💬Facebook: https://www.facebook.com/pimpimentalol\n\n📧  Email para contato profissional: contatopimpimenta@gmail.com\n\n✅ Não deixe de se inscrever e clicar no \"gostei\", isso ajuda muito no meu crescimento! Obrigado a toda galera que está me acompanhando, deixe seu feedback! XD XD XD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5XcyZ6tWqVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5XcyZ6tWqVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5XcyZ6tWqVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5XcyZ6tWqVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5XcyZ6tWqVs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "pimpimenta",
+        "tags": [
+          "League of legends lol",
+          "pimpimenta shaco",
+          "tila não jaja tem mais",
+          "challenger lol",
+          "pimpi tiltado",
+          "brtt",
+          "yoda",
+          "rakin",
+          "yetz",
+          "pimpimenta live",
+          "biri biri",
+          "stream melhores momentos",
+          "melhores clipes pimpimenta",
+          "melhores clips da twitch",
+          "jungle top 1 brasil",
+          "jungle pimpimenta",
+          "tilta não jaja tem mais",
+          "tilta aí?",
+          "tilta não",
+          "tiltando as lendas",
+          "kami",
+          "tiltando as lendas jovirone",
+          "tiltando as lendas kami",
+          "QIYANA LOL",
+          "pimpimenta qiyana"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "\"LANSEI\" A BRABA DO OUTFIT NO LOLZIN 👍",
+          "description": "🎥 Livestream: https://bit.ly/2m7ZmFu\n📆 Vídeos novos TODOS OS DIAS, às 11 horas da manhã! \n🔔 Ativem o sininho para receber as notificações de vídeos novos!\n\n\n🎧  ACESSE NOSSO DISCORD: https://discord.gg/pimpimenta\n\n\n🎬 Edição por Teosmiranda\n \n🐦Twitter: https://twitter.com/teosmiranda\n📸 Instagram: https://www.instagram.com/teosmiranda/\n💬 Facebook: https://www.facebook.com/teosmiranda\n\n\n📱 Redes sociais do Pimpimenta:\n \n🐦Twitter:https://www.twitter.com/pimpimentalol\n📸Instagram: https://www.instagram.com/pimpimentalol\n💬Facebook: https://www.facebook.com/pimpimentalol\n\n📧  Email para contato profissional: contatopimpimenta@gmail.com\n\n✅ Não deixe de se inscrever e clicar no \"gostei\", isso ajuda muito no meu crescimento! Obrigado a toda galera que está me acompanhando, deixe seu feedback! XD XD XD"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BsmRJUkchxVZ6TQcSUiwEI-u16s",
+      "id": "pp5b0d1LoCQ",
+      "snippet": {
+        "publishedAt": "2020-01-27T21:30:02Z",
+        "channelId": "UCHpoV8qG-xpwup_csmkIHMw",
+        "title": "AS MELHORES TATUAGENS DE LEAGUE OF LEGENDS - LOL, LOLZIN",
+        "description": "Seja bem vindo ao maior Canal de Tatuagem do MUNDOOO\n\n➤ O Maior Curso de Tattoo da internet:\nhttp://cursodetattoo.com.br\n\n➤ Me Sigaaaa!!!\nhttps://instagram.com/raphaelmsalles\nhttps://instagram.com/nini.pew\n\n➤ Grupo privado no Telegram sobre minha vida e investimentos:\nhttp://t.me/raphaelmsalles\n\n➤ Grupo privado no telegram sobre Tattoo & Piercing:\nhttp://t.me/canalsalles\n\n➤ Se inscreva na IQ OPTION e ganhe bonus de 10mil para começar!\nhttps://ib.iqbroker.com/redir/?aff=215567\n\n➤ Parcerias e Contato:\nPartner@wahlmom.com \n\n➤Apoie\npix/cpf: 13145362739\n\n#Salles #CanalSalles #SallesTattoo\n\nSalles, CanalSalles, SallesTattoo, SallesReact, Salles tatuador, salles tattoo, salles tatuagem",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pp5b0d1LoCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pp5b0d1LoCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pp5b0d1LoCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pp5b0d1LoCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pp5b0d1LoCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Canal Salles",
+        "tags": [
+          "Canal salles",
+          "canal do salles",
+          "salles",
+          "sales",
+          "vlog",
+          "tatuador",
+          "tatuador dos youtubers",
+          "salles tattoo",
+          "Humor",
+          "diversão",
+          "entretenimento",
+          "tattoo",
+          "tatuagem",
+          "tatuando",
+          "artista",
+          "Comédia",
+          "tatuagens",
+          "tattoos",
+          "funny",
+          "tatto",
+          "polemico",
+          "youtuber",
+          "tatoo",
+          "engraçado",
+          "Humor e vlog",
+          "polêmico",
+          "electric ink",
+          "paulo fernando",
+          "eletric ink",
+          "divertido",
+          "humor",
+          "deu ruim",
+          "blogueirinha",
+          "blogueira",
+          "tattoo life",
+          "canal de humor",
+          "salles e lira",
+          "AS MELHORES TATUAGENS DE LEAGUE OF LEGENDS - LOL",
+          "LOLZIN",
+          "TATTOO LOL",
+          "TATTOO LEAGUE OF LEGENDS"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "AS MELHORES TATUAGENS DE LEAGUE OF LEGENDS - LOL, LOLZIN",
+          "description": "Seja bem vindo ao maior Canal de Tatuagem do MUNDOOO\n\n➤ O Maior Curso de Tattoo da internet:\nhttp://cursodetattoo.com.br\n\n➤ Me Sigaaaa!!!\nhttps://instagram.com/raphaelmsalles\nhttps://instagram.com/nini.pew\n\n➤ Grupo privado no Telegram sobre minha vida e investimentos:\nhttp://t.me/raphaelmsalles\n\n➤ Grupo privado no telegram sobre Tattoo & Piercing:\nhttp://t.me/canalsalles\n\n➤ Se inscreva na IQ OPTION e ganhe bonus de 10mil para começar!\nhttps://ib.iqbroker.com/redir/?aff=215567\n\n➤ Parcerias e Contato:\nPartner@wahlmom.com \n\n➤Apoie\npix/cpf: 13145362739\n\n#Salles #CanalSalles #SallesTattoo\n\nSalles, CanalSalles, SallesTattoo, SallesReact, Salles tatuador, salles tattoo, salles tatuagem"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT10M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7BIm9pguhsfo8nDMd6p06wjkScw",
+      "id": "fo-_7jH4NTk",
+      "snippet": {
+        "publishedAt": "2020-02-12T22:52:15Z",
+        "channelId": "UChPcAGsFDNZDWSdv4VK8cKA",
+        "title": "1 hora de músicas para jogar lol 2020 🎮 Músicas para jogar  🎮 Melhores músicas para games",
+        "description": "Outra playlist INCRIVEL 2021 : https://www.youtube.com/watch?v=FG-T-LvoIWw \nCique nessa ai e não se arrependa !! (Part 3)\n\nDiscord : https://discord.gg/Ntw5ZNn7Ue\nMúsicas para ouvir enquanto joga !!\nespero que gostem..\n\n---------------------------------------------//--------------------------------------------\n\nTambém gravo jogos, se puderem analisar :v\n\n---------------------------------------------//--------------------------------------------\n\n\nVídeo meio diferente do normal, deem dicas para gravar !!\n\nDeixe seu like se gostar do mix !! :3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fo-_7jH4NTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fo-_7jH4NTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fo-_7jH4NTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fo-_7jH4NTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fo-_7jH4NTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sr Polarti",
+        "tags": [
+          "musicas para jogar lol",
+          "músicas para jogar lol",
+          "Musica para jogar",
+          "1 hora de musica para jogar lol",
+          "musicas eletrónicas",
+          "músicas para jogar",
+          "músicas para jogar 2020",
+          "musicas para jogar",
+          "musicas para jogar fps",
+          "musicas internacionais para jogar",
+          "musicas para jogar minecraft",
+          "musicas fodas para jogar",
+          "1 hr de musicas para jogar",
+          "1 hr de musicas",
+          "mix de musica",
+          "sr polarti",
+          "sr polarte",
+          "polarte polarti",
+          "musicas parajogar cs go",
+          "musicas foda para jogar",
+          "musicas para jogar cs go"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt",
+        "localized": {
+          "title": "1 hora de músicas para jogar lol 2020 🎮 Músicas para jogar  🎮 Melhores músicas para games",
+          "description": "Outra playlist INCRIVEL 2021 : https://www.youtube.com/watch?v=FG-T-LvoIWw \nCique nessa ai e não se arrependa !! (Part 3)\n\nDiscord : https://discord.gg/Ntw5ZNn7Ue\nMúsicas para ouvir enquanto joga !!\nespero que gostem..\n\n---------------------------------------------//--------------------------------------------\n\nTambém gravo jogos, se puderem analisar :v\n\n---------------------------------------------//--------------------------------------------\n\n\nVídeo meio diferente do normal, deem dicas para gravar !!\n\nDeixe seu like se gostar do mix !! :3"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT58M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "CU",
+            "IR",
+            "KP",
+            "SY"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f56Tad9iH_WPvCbJlr-x6nR_dbU",
+      "id": "ms_DTc9ioM0",
+      "snippet": {
+        "publishedAt": "2015-11-11T14:00:02Z",
+        "channelId": "UCjQIhyuCGh9D4QjraVuV3gA",
+        "title": "CAUÊ MOURA DO LOLZIN || LEAGUE OF LEGENDS",
+        "description": "Redes Sociais:\nhttps://www.facebook.com/therealyetz\nhttps://twitter.com/yetz1\nhttps://instagram.com/therealyetz\nSnap: yeetz21\n\nLink para Stream:\nhttp://www.azubu.tv/therealyetz\nEquipamento gamer e na game7!\n\nhttp://goo.gl/cUw0fC\n\nCompre jogos utilizando o código yetz, 3% de desconto!\nhttps://www.g2a.com/r/yeetz\n\nCompre na loja da Keyd utilizando o cupom yetz, e ganhe 10% de desconto.\nhttp://kstars.gg/loja/\n\ncompre sua dxracer com 5% de desconto utilizando o cupom yetz:\nhttp://www.dxracerbrasil.com.br/\n\nCompre seu headset da Sennheiser na e-store!\nhttp://www.e-store.com.br/catalogsear...\n\nEdição Villamarim\nhttps://www.youtube.com/user/VillamarimXD\nhttps://twitter.com/Villamarim_XD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ms_DTc9ioM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ms_DTc9ioM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ms_DTc9ioM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ms_DTc9ioM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ms_DTc9ioM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yeTz",
+        "tags": [
+          "legends",
+          "the real",
+          "Kent",
+          "moura",
+          "of",
+          "riot",
+          "villa",
+          "desce a letra",
+          "caue",
+          "league",
+          "a letra",
+          "giro",
+          "quinta",
+          "league of legends",
+          "de",
+          "desce",
+          "yeetz",
+          "Clark",
+          "mateus",
+          "yetz",
+          "lolzinho",
+          "lol"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "CAUÊ MOURA DO LOLZIN || LEAGUE OF LEGENDS",
+          "description": "Redes Sociais:\nhttps://www.facebook.com/therealyetz\nhttps://twitter.com/yetz1\nhttps://instagram.com/therealyetz\nSnap: yeetz21\n\nLink para Stream:\nhttp://www.azubu.tv/therealyetz\nEquipamento gamer e na game7!\n\nhttp://goo.gl/cUw0fC\n\nCompre jogos utilizando o código yetz, 3% de desconto!\nhttps://www.g2a.com/r/yeetz\n\nCompre na loja da Keyd utilizando o cupom yetz, e ganhe 10% de desconto.\nhttp://kstars.gg/loja/\n\ncompre sua dxracer com 5% de desconto utilizando o cupom yetz:\nhttp://www.dxracerbrasil.com.br/\n\nCompre seu headset da Sennheiser na e-store!\nhttp://www.e-store.com.br/catalogsear...\n\nEdição Villamarim\nhttps://www.youtube.com/user/VillamarimXD\nhttps://twitter.com/Villamarim_XD"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT6M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7ksmEV-zp0TO4qRL9KxOIw4c86E",
+      "id": "SScWvcUUOvA",
+      "snippet": {
+        "publishedAt": "2020-03-11T15:00:10Z",
+        "channelId": "UCZ_X1jCLGzwwX8ktquTBsng",
+        "title": "DUO BOT NO LOLZIN, CONFIA! | League of Legends",
+        "description": "CBLOL aqui vou eu, melhor Ashe NO SCOPE do meu bairro! \n\n\n🎮 CANAL DE LIVES: http://Damianizando.Live\nAO VIVO DE SEG À SEX \n\n--- 🔍Minhas Redes Sociais:\n📸 Instagram: http://instagram.com/Damianizando\n🐥 Twitter: https://twitter.com/Damianizando\n\n#LeagueofLegends #JogandoJogos #LoL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SScWvcUUOvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SScWvcUUOvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SScWvcUUOvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SScWvcUUOvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SScWvcUUOvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jogando Jogos",
+        "tags": [
+          "league of legends",
+          "lol",
+          "gameplay",
+          "game",
+          "jogando jogos",
+          "jogos",
+          "ashe",
+          "lux",
+          "riot",
+          "riot games",
+          "damiani",
+          "damianizando"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "DUO BOT NO LOLZIN, CONFIA! | League of Legends",
+          "description": "CBLOL aqui vou eu, melhor Ashe NO SCOPE do meu bairro! \n\n\n🎮 CANAL DE LIVES: http://Damianizando.Live\nAO VIVO DE SEG À SEX \n\n--- 🔍Minhas Redes Sociais:\n📸 Instagram: http://instagram.com/Damianizando\n🐥 Twitter: https://twitter.com/Damianizando\n\n#LeagueofLegends #JogandoJogos #LoL"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j3uxB-P7Ph0GERV_dgFHKmGurXE",
+      "id": "Mr1iBryaCKc",
+      "snippet": {
+        "publishedAt": "2021-02-10T02:41:02Z",
+        "channelId": "UCLbG_OIB0PPHHb8gWEJ89GA",
+        "title": "BORA UM URF NO LOLZIN",
+        "description": "LIVE DE LEAGUE OF LEGENDS JOGANDO URF.\n\nVIRE MEMBRO DO CANAL!!\n💜Doação pelo PayPal: https://streamlabs.com/huntergamer/tip",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mr1iBryaCKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mr1iBryaCKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mr1iBryaCKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mr1iBryaCKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mr1iBryaCKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ALPHONSO",
+        "tags": [
+          "gameplay",
+          "League of Legends",
+          "Live",
+          "Ranked",
+          "Warwick",
+          "urf"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt",
+        "localized": {
+          "title": "BORA UM URF NO LOLZIN",
+          "description": "LIVE DE LEAGUE OF LEGENDS JOGANDO URF.\n\nVIRE MEMBRO DO CANAL!!\n💜Doação pelo PayPal: https://streamlabs.com/huntergamer/tip"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT3H20M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dwtl6z4uDuMuu6n6bNPPh4wYH6Y",
+      "id": "y62CY2xTGuc",
+      "snippet": {
+        "publishedAt": "2021-02-15T04:15:34Z",
+        "channelId": "UCY8J9Dfh7YvSwIn82U5vumw",
+        "title": "LOL 2013 VS LOL 2021",
+        "description": "Conheça a live do meu querido amigo: @negaooblack\nO vídeo de 2013 é este aqui: https://youtu.be/6_bHmav5WG8\nLolzin 2013 VS Lolzin 2021",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y62CY2xTGuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y62CY2xTGuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y62CY2xTGuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y62CY2xTGuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y62CY2xTGuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sev7n",
+        "tags": [
+          "sev7n",
+          "league of legends",
+          "lol",
+          "lolzin",
+          "2021 lol",
+          "league of legends season 11",
+          "melhores clipes do sev7n",
+          "fernandosev7n",
+          "sev7n lol",
+          "league of legends 10.24",
+          "league of legends patch 10.23",
+          "three",
+          "adc",
+          "adc season 2020"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt",
+        "localized": {
+          "title": "LOL 2013 VS LOL 2021",
+          "description": "Conheça a live do meu querido amigo: @negaooblack\nO vídeo de 2013 é este aqui: https://youtu.be/6_bHmav5WG8\nLolzin 2013 VS Lolzin 2021"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT10M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E9gGvDQCEcVKaM2P9z6Zz7N3ocA",
+      "id": "bqUjwZ0APpA",
+      "snippet": {
+        "publishedAt": "2019-06-09T22:03:50Z",
+        "channelId": "UC0pg3LmePGOtjV2gKBQQrxw",
+        "title": "OPEREI O C# E FUI JOGAR LOLZIN!!",
+        "description": "https://nonolive.com/hastad\n\n\nMe siga nas redes sociais:\nInstagram ► http://www.instagram.com/hernanklingler\nFacebook  ► http://www.facebook.com/hasttad \nTwitter       ► http://twitter.com/hastadlol\n\n► Contato profissional: hasttad@gmail.com\n\n► Edição por Yuri Nunes:\nhttps://twitter.com/yuriyuras",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bqUjwZ0APpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bqUjwZ0APpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bqUjwZ0APpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bqUjwZ0APpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bqUjwZ0APpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hastad",
+        "tags": [
+          "hastad",
+          "boludo",
+          "gameplay",
+          "entretenimento",
+          "game",
+          "jogo",
+          "lol",
+          "vayne",
+          "pro"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "OPEREI O C# E FUI JOGAR LOLZIN!!",
+          "description": "https://nonolive.com/hastad\n\n\nMe siga nas redes sociais:\nInstagram ► http://www.instagram.com/hernanklingler\nFacebook  ► http://www.facebook.com/hasttad \nTwitter       ► http://twitter.com/hastadlol\n\n► Contato profissional: hasttad@gmail.com\n\n► Edição por Yuri Nunes:\nhttps://twitter.com/yuriyuras"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT10M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JgcyUN2OzBMbGoXYoVpdTNDYFNk",
+      "id": "eOT3s0K2zAQ",
+      "snippet": {
+        "publishedAt": "2019-10-25T21:43:13Z",
+        "channelId": "UCowJvMDgjFLbhp1a67zTZFw",
+        "title": "LOLZIN RAIZ DE MORDEKAISER COM O ESA",
+        "description": "DEIXE UM LIKE SE VOCÊ CURTIU O VÍDEO, INSCREVA-SE PARA MAIS VÍDEOS!\n\nSIGA-ME:\n►TWITTER - https://www.twitter.com/Rakin\n►FACEBOOK - https://www.facebook.com/leaguerakin\n►INSTAGRAM - https://www.instagram.com/rakinlol\n►SPOTIFY - https://open.spotify.com/user/1215584...\n\n\nPLAYLIST DE FRITAÇÃO: ►https://goo.gl/R4NZEC\n\nProduzido Por  :\n\n🐵 Mad Monkey Agency_",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eOT3s0K2zAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eOT3s0K2zAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eOT3s0K2zAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eOT3s0K2zAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Rakin",
+        "tags": [
+          "Rakin",
+          "lol",
+          "league of legends",
+          "liquid",
+          "team liquid",
+          "challenger",
+          "high elo",
+          "gameplay",
+          "gaming",
+          "outplays",
+          "season 9",
+          "stream",
+          "melhores momentos",
+          "L4C72D6N"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LOLZIN RAIZ DE MORDEKAISER COM O ESA",
+          "description": "DEIXE UM LIKE SE VOCÊ CURTIU O VÍDEO, INSCREVA-SE PARA MAIS VÍDEOS!\n\nSIGA-ME:\n►TWITTER - https://www.twitter.com/Rakin\n►FACEBOOK - https://www.facebook.com/leaguerakin\n►INSTAGRAM - https://www.instagram.com/rakinlol\n►SPOTIFY - https://open.spotify.com/user/1215584...\n\n\nPLAYLIST DE FRITAÇÃO: ►https://goo.gl/R4NZEC\n\nProduzido Por  :\n\n🐵 Mad Monkey Agency_"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jSma5aErq4eJLOYRIejnyBzJSu0",
+      "id": "xms2b0UOens",
+      "snippet": {
+        "publishedAt": "2018-08-15T05:22:40Z",
+        "channelId": "UCRhLasqf5qau0-QZl6qRhXw",
+        "title": "LOLZIN",
+        "description": "LOLZIN",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xms2b0UOens/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xms2b0UOens/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xms2b0UOens/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xms2b0UOens/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thiago Montanari",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LOLZIN",
+          "description": "LOLZIN"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H19M16S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "S6fl7z6tbZ8pNjzn6jNcPUW12a8",
+      "id": "V_bxmUEqhFk",
+      "snippet": {
+        "publishedAt": "2020-06-30T13:39:12Z",
+        "channelId": "UCGrs4qEyhPEavGBHNdDi26A",
+        "title": "O DIA QUE EU ME RENDI AO LOLZIN KKKKKKJJ",
+        "description": "~nãoboteicontinuapqnãovaicontinua~\n\n↡ DÁ UMA OLHADA NOS LINKS ↡\n\nJogo: League of Legends\nPara: PC\n\nEXPLICANDO O JOGO:\n\n- Também não entendi até agora.\n\nó\n\n➦ EMAIL DE CONTATO: heitorcontatoYT@gmail.com\n#TimeHeitir\n\n📸 INSTAGRAM: https://www.instagram.com/heitorsenpai/\n🔴 ASSISTA TAMBÉM: https://mixer.com/heitir\n💻 COMPRE SEU PC GAMER NA CHIPART:https://goo.gl/in41i3\n🐦 MEU TWITTER: https://twitter.com/Heitor_Games\n🎮 SEGUNDO CANAL: http://www.youtube.com/vcselembra\n\n✪ TERCEIRO CANAL: \nhttp://www.youtube.com/canal7coisassobreanimes\n\n________________________\n\nAGRADECIMENTO AOS MEMBROS: \n\nx-burge voador\nVictor Ribeiro\nIgor Henrique\nVictor Macedo\nCitendo\nMaykon Braga de Oliveira\nJohn John\nMarea vazando óleo\nIG EDITS\nThales Soares\ntec zaiper\nBlack Demons\nGuilherme Haack\nRullyan Gabriel\njoaocosta cruz\nLel Origens\nJuuzou Suzuya\nAndre Maia Souza\nMirai Metal\nMatheus Augusto Simão Cezar\nLucas Medeiros\nJoão Pedro Barroso\nIvens BT\nWesley Susu\nPaulo Mazuque\nJair h\nMyamoto Plays\nmais um qualquer\nBrack\nYURIMAX 48\nFellype não interessa pra você palhaço\nαlisσทツ\nRafael Machado\nMatheus Autran\nLazaros Giovanni\nguilherme silva\nGuilherme Silva\nYgor DCA\nPlayer DG\nEmanuel Pereira\nluixs\nFernanda\nLaporte\nHilbert :3\nde ouro\nDLS 4688\nItanildo Dantas\nTustra\nJanderson 13\nDeivis Pereira\nBruno Paiva\nVitor Silva\nRafa Yukio\nLuiz Evaristo da Silva\nTG JOGA\nNikolasGD\nThais Borges\nArlindo Marcos EufraZ\nRaiochu 12\nHexx\nJorge Lopes\nEduardo Geschonke\nRafael Vandregory\nLucas De Oliveira Galdino\nia tivoia\nLlrd _\nCode\nAnderson Tribst\nJoão Luiz Cardoso Júnior\nTulioBr1\n-MCV-\nTonio571\nAyren\nGvtgamer\nHenrique Tatsuo\nJhones Jefferson\nThund3r Bl4ck\nGuilherme Oliveira\nLeFFaK _\nMauro Duarte\nHugo Enes\nThon Castro\nCristiano Lira de Sousa\nMateus Lorençone\nAilson Junior\nMarcos Gabriel Gotardo\nLucas Lin\nClinio Francisco\nAdolfo Sasaki\nBruno Duarte\nGuilherme Augusto\nLord Rocha supremo\nLight Demonsbr\nGabriela Calligaris Kayatt\nMestre Dos Noobs\nOdiaEmQuer Luiz\nJulio César\nVTHO\nHoori\nLucas Pielak\nLucas Penatti\nWinderson [Kimymar]\nMarcelo Viana\nDonnie Darko\nTenske\nGabriel Rodrigues\nJunior lima\nMewlava\nCpX_Leegit\nAzio Junior\nLuis Gustavo Campos\nCayo Cesar\nLucas Inacio\nJhonni Fernando\nCaroline Aredesu\nIvan Carlos Da Costa\nBruno Oliveira\nGuilherme Garcia e Silva\nRailson ferreira\nBetoLuck\nTony Redgrave\nCarrasquera\nSon Oni Player\nPatrick Nilson\nJulio Starleni-13\nMarcelo Herber\nJoaquim Oliveira\nArmRed\nYgor Hernandez\nMaiko Douglas Menezes Alves\nJunior\nAquarioS\nAirWick\nJaneslei Coelho\nJunyor GamesXD\nEduardo Prevedel\nHellblazer BR\nCarlos W. Gama\nThe Sales\njose leandro\nAdriano Moraes\nLucca OR\nDokixote Doflamingo\nMarcone Alcântara\nPeDrO HeNrInQuE BoLdRiN\nFelipe Caetano\nGabriel Hideo Furusawa\nHeitor Sanches\nDeivid Ribeiro\nMatanubi Extreme\nJoão Vitor Pereira\nNyanmaru\nDheric Mendes\nGiovanni\nSalomão Duarte Rosa\nRenegade\nMagno Miguel\nMatheus Carvalho\nMurilo Maxwell\nJuvitu Espindola\nAlcor Setenptrion\nguilherme penna\nTavineon\nWellington Chagas\nNadal Pg Games\nNatsllene\nFranz R. Pereira\nMarcos Restani\nGhoenix DG\nRo Beto\nJonathan Santos\npress play to play\nEduardo Henrique\nRatatataBrasil\ncharmander autista\nAyloHM\nLourival Antônio\nFelipe Mendes\nNicolas Giovannetti\nLuís Henrique Santos Oliveira\nIgor Portela\nJoao-kun -_-\nKeven Gabriel\nAna Luiza Marques\nYuri FBap\nLincoln Domingos Andrade\nVitor Hugo Jacob A. da Silva\nDionisio Tozetto\nRodrigo Nogueira\nRafael S. Morgante\nRaphael F B Costa\nloidy5\nBlue Spark\nTiger Geek\nfilipe martins\n\nS2\n\n\nAbraço a todos, e bom vídeo. \\õ/rUHAUHAUH~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V_bxmUEqhFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V_bxmUEqhFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V_bxmUEqhFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V_bxmUEqhFk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V_bxmUEqhFk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Heitir",
+        "tags": [
+          "O DIA QUE EU ME RENDI AO LOLZIN KKKKKKJJ",
+          "lol",
+          "league of legends",
+          "primeira vez",
+          "engraçado",
+          "humor",
+          "fail",
+          "divertido",
+          "how to",
+          "meme",
+          "gameplay",
+          "heitorgames",
+          "vcselembra",
+          "7 coisas"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "O DIA QUE EU ME RENDI AO LOLZIN KKKKKKJJ",
+          "description": "~nãoboteicontinuapqnãovaicontinua~\n\n↡ DÁ UMA OLHADA NOS LINKS ↡\n\nJogo: League of Legends\nPara: PC\n\nEXPLICANDO O JOGO:\n\n- Também não entendi até agora.\n\nó\n\n➦ EMAIL DE CONTATO: heitorcontatoYT@gmail.com\n#TimeHeitir\n\n📸 INSTAGRAM: https://www.instagram.com/heitorsenpai/\n🔴 ASSISTA TAMBÉM: https://mixer.com/heitir\n💻 COMPRE SEU PC GAMER NA CHIPART:https://goo.gl/in41i3\n🐦 MEU TWITTER: https://twitter.com/Heitor_Games\n🎮 SEGUNDO CANAL: http://www.youtube.com/vcselembra\n\n✪ TERCEIRO CANAL: \nhttp://www.youtube.com/canal7coisassobreanimes\n\n________________________\n\nAGRADECIMENTO AOS MEMBROS: \n\nx-burge voador\nVictor Ribeiro\nIgor Henrique\nVictor Macedo\nCitendo\nMaykon Braga de Oliveira\nJohn John\nMarea vazando óleo\nIG EDITS\nThales Soares\ntec zaiper\nBlack Demons\nGuilherme Haack\nRullyan Gabriel\njoaocosta cruz\nLel Origens\nJuuzou Suzuya\nAndre Maia Souza\nMirai Metal\nMatheus Augusto Simão Cezar\nLucas Medeiros\nJoão Pedro Barroso\nIvens BT\nWesley Susu\nPaulo Mazuque\nJair h\nMyamoto Plays\nmais um qualquer\nBrack\nYURIMAX 48\nFellype não interessa pra você palhaço\nαlisσทツ\nRafael Machado\nMatheus Autran\nLazaros Giovanni\nguilherme silva\nGuilherme Silva\nYgor DCA\nPlayer DG\nEmanuel Pereira\nluixs\nFernanda\nLaporte\nHilbert :3\nde ouro\nDLS 4688\nItanildo Dantas\nTustra\nJanderson 13\nDeivis Pereira\nBruno Paiva\nVitor Silva\nRafa Yukio\nLuiz Evaristo da Silva\nTG JOGA\nNikolasGD\nThais Borges\nArlindo Marcos EufraZ\nRaiochu 12\nHexx\nJorge Lopes\nEduardo Geschonke\nRafael Vandregory\nLucas De Oliveira Galdino\nia tivoia\nLlrd _\nCode\nAnderson Tribst\nJoão Luiz Cardoso Júnior\nTulioBr1\n-MCV-\nTonio571\nAyren\nGvtgamer\nHenrique Tatsuo\nJhones Jefferson\nThund3r Bl4ck\nGuilherme Oliveira\nLeFFaK _\nMauro Duarte\nHugo Enes\nThon Castro\nCristiano Lira de Sousa\nMateus Lorençone\nAilson Junior\nMarcos Gabriel Gotardo\nLucas Lin\nClinio Francisco\nAdolfo Sasaki\nBruno Duarte\nGuilherme Augusto\nLord Rocha supremo\nLight Demonsbr\nGabriela Calligaris Kayatt\nMestre Dos Noobs\nOdiaEmQuer Luiz\nJulio César\nVTHO\nHoori\nLucas Pielak\nLucas Penatti\nWinderson [Kimymar]\nMarcelo Viana\nDonnie Darko\nTenske\nGabriel Rodrigues\nJunior lima\nMewlava\nCpX_Leegit\nAzio Junior\nLuis Gustavo Campos\nCayo Cesar\nLucas Inacio\nJhonni Fernando\nCaroline Aredesu\nIvan Carlos Da Costa\nBruno Oliveira\nGuilherme Garcia e Silva\nRailson ferreira\nBetoLuck\nTony Redgrave\nCarrasquera\nSon Oni Player\nPatrick Nilson\nJulio Starleni-13\nMarcelo Herber\nJoaquim Oliveira\nArmRed\nYgor Hernandez\nMaiko Douglas Menezes Alves\nJunior\nAquarioS\nAirWick\nJaneslei Coelho\nJunyor GamesXD\nEduardo Prevedel\nHellblazer BR\nCarlos W. Gama\nThe Sales\njose leandro\nAdriano Moraes\nLucca OR\nDokixote Doflamingo\nMarcone Alcântara\nPeDrO HeNrInQuE BoLdRiN\nFelipe Caetano\nGabriel Hideo Furusawa\nHeitor Sanches\nDeivid Ribeiro\nMatanubi Extreme\nJoão Vitor Pereira\nNyanmaru\nDheric Mendes\nGiovanni\nSalomão Duarte Rosa\nRenegade\nMagno Miguel\nMatheus Carvalho\nMurilo Maxwell\nJuvitu Espindola\nAlcor Setenptrion\nguilherme penna\nTavineon\nWellington Chagas\nNadal Pg Games\nNatsllene\nFranz R. Pereira\nMarcos Restani\nGhoenix DG\nRo Beto\nJonathan Santos\npress play to play\nEduardo Henrique\nRatatataBrasil\ncharmander autista\nAyloHM\nLourival Antônio\nFelipe Mendes\nNicolas Giovannetti\nLuís Henrique Santos Oliveira\nIgor Portela\nJoao-kun -_-\nKeven Gabriel\nAna Luiza Marques\nYuri FBap\nLincoln Domingos Andrade\nVitor Hugo Jacob A. da Silva\nDionisio Tozetto\nRodrigo Nogueira\nRafael S. Morgante\nRaphael F B Costa\nloidy5\nBlue Spark\nTiger Geek\nfilipe martins\n\nS2\n\n\nAbraço a todos, e bom vídeo. \\õ/rUHAUHAUH~"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT11M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TD9Z7Sm_eqUHQPtm33U-dYmj21U",
+      "id": "IYNhwYAkf6k",
+      "snippet": {
+        "publishedAt": "2020-07-08T01:24:07Z",
+        "channelId": "UCy8WuSmLJZDqnBocv-h_ZeA",
+        "title": "Bora de LoLzin !!!",
+        "description": "Inscreva se no canal e deixe o Like , ajuda muito!\n\n🔴 LIVES  SEG/QUA/SEX/SAB  as (09:00AM)\n\n▶️ Instagram Oficial: @freefiremarsup\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#aovivo #leagueoflegends #lolzin #brtt  #yoda #desafiante  #giftcard #faker #mainleona #bronzoide #aram  #ranked #cblol #botlane #mid #top",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IYNhwYAkf6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IYNhwYAkf6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IYNhwYAkf6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IYNhwYAkf6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IYNhwYAkf6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marsup",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Bora de LoLzin !!!",
+          "description": "Inscreva se no canal e deixe o Like , ajuda muito!\n\n🔴 LIVES  SEG/QUA/SEX/SAB  as (09:00AM)\n\n▶️ Instagram Oficial: @freefiremarsup\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#aovivo #leagueoflegends #lolzin #brtt  #yoda #desafiante  #giftcard #faker #mainleona #bronzoide #aram  #ranked #cblol #botlane #mid #top"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZGeP9yIonX27eTrB3pyU5i6037E",
+      "id": "qQu-qJpTx2U",
+      "snippet": {
+        "publishedAt": "2019-02-14T01:49:56Z",
+        "channelId": "UCLwSTsR43m9zb4VwA3wDFNA",
+        "title": "UMA GAMEPLAY QUALQUER DE LOLZIN E VÁRIOS RAGES!",
+        "description": "Vem me acompanhar nas lives babys ♥\nStreamCraft : https://streamcraft.com/user/2024245030\n      \n                                          SOCIAIS\ninstagram: https://www.instagram.com/annagamerr_/\ne-mail para contato: contatoannagameer@gmail.com\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n__________________________________________________________\n#LOZINHO #ANNAGAMER #60K #EUSOURUIM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qQu-qJpTx2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qQu-qJpTx2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qQu-qJpTx2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qQu-qJpTx2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qQu-qJpTx2U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mia Gamer",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "UMA GAMEPLAY QUALQUER DE LOLZIN E VÁRIOS RAGES!",
+          "description": "Vem me acompanhar nas lives babys ♥\nStreamCraft : https://streamcraft.com/user/2024245030\n      \n                                          SOCIAIS\ninstagram: https://www.instagram.com/annagamerr_/\ne-mail para contato: contatoannagameer@gmail.com\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n__________________________________________________________\n#LOZINHO #ANNAGAMER #60K #EUSOURUIM"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cQL9rLWjjsExEICxaYaponhJlUY",
+      "id": "NrGtCwgN-Nc",
+      "snippet": {
+        "publishedAt": "2019-01-07T04:02:52Z",
+        "channelId": "UCH_CCGktsgmr7eQSWE-AcIg",
+        "title": "HOMEM ARANHA DO LOLZIN  !!!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NrGtCwgN-Nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NrGtCwgN-Nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NrGtCwgN-Nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NrGtCwgN-Nc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Carlos",
+        "tags": [
+          "#MadLipz"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HOMEM ARANHA DO LOLZIN  !!!",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_Jj0JtKHQkuhpmYHw7zrKEg8A8Y",
+      "id": "9mtqAh96jH4",
+      "snippet": {
+        "publishedAt": "2018-06-29T02:12:57Z",
+        "channelId": "UC0pg3LmePGOtjV2gKBQQrxw",
+        "title": "JOGANDO LOLZIN ESCUTANDO AS MELHORES DO JUSTIN BIEBER",
+        "description": "Streams todos os dias na CubeTV: cubetv.sg/17489233\n\nMe siga nas redes sociais:\nInstagram ► http://www.instagram.com/hernanklingler\nFacebook  ► http://www.facebook.com/hasttad \nTwitter       ► http://twitter.com/hastadlol\n\n► Contato profissional: hasttad@gmail.com\n\n► Edição por Yuri Nunes:\nhttps://twitter.com/yuriyuras\nhttps://www.youtube.com/yioholand",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9mtqAh96jH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9mtqAh96jH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9mtqAh96jH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9mtqAh96jH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9mtqAh96jH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hastad",
+        "tags": [
+          "hastad",
+          "boludo",
+          "gameplay",
+          "entretenimento",
+          "game",
+          "jogo",
+          "lol",
+          "vayne",
+          "pro"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "JOGANDO LOLZIN ESCUTANDO AS MELHORES DO JUSTIN BIEBER",
+          "description": "Streams todos os dias na CubeTV: cubetv.sg/17489233\n\nMe siga nas redes sociais:\nInstagram ► http://www.instagram.com/hernanklingler\nFacebook  ► http://www.facebook.com/hasttad \nTwitter       ► http://twitter.com/hastadlol\n\n► Contato profissional: hasttad@gmail.com\n\n► Edição por Yuri Nunes:\nhttps://twitter.com/yuriyuras\nhttps://www.youtube.com/yioholand"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT10M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fls55vaU33Vn7xiiiE4Qb3tjqog",
+      "id": "OjiGyDvlBGc",
+      "snippet": {
+        "publishedAt": "2020-11-30T16:58:07Z",
+        "channelId": "UCCAHtb-_IqzsllixhqxP6Ow",
+        "title": "Lolzin",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OjiGyDvlBGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OjiGyDvlBGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OjiGyDvlBGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OjiGyDvlBGc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OjiGyDvlBGc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Henrique Assunção",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lolzin",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT54M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Txnwuy35yyAK8UMegVGVWsj8oeo",
+      "id": "WzdbSTYoGxY",
+      "snippet": {
+        "publishedAt": "2020-01-30T19:00:03Z",
+        "channelId": "UCgCfOz-o7lxB0mg0a05TcZA",
+        "title": "Lolzin - Maior virada da minha vida",
+        "description": "Fala clan! Mais um vídeo de lolzin, dessa vez mostrando uma build que eu desenvolvi pra jogar de Senna top. Achei interessante como dah pra contornar o problema dos minions dropparem menos stacks de uma maneira tão fácil, pra conseguir acelerar o jogo e conseguir vários stacks no early game. E, como o título sugere, no final aconteceu uma virada gigantesca (na real eu fiquei até meio confuso na hr, pq foi mt rápido).\nMe siga nas redes sociais:\nTwitter: https://twitter.com/ResmithVideos\nInstagram: https://www.instagram.com/resmithvideos/ \nDiscord: https://discord.gg/Sm9xffM (Fale comigo por lah)\nTwitch: https://www.twitch.tv/resmith (Live toda sexta à noite!)\nE se inscreva no canal :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WzdbSTYoGxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WzdbSTYoGxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WzdbSTYoGxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WzdbSTYoGxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WzdbSTYoGxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Resmith",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt",
+        "localized": {
+          "title": "Lolzin - Maior virada da minha vida",
+          "description": "Fala clan! Mais um vídeo de lolzin, dessa vez mostrando uma build que eu desenvolvi pra jogar de Senna top. Achei interessante como dah pra contornar o problema dos minions dropparem menos stacks de uma maneira tão fácil, pra conseguir acelerar o jogo e conseguir vários stacks no early game. E, como o título sugere, no final aconteceu uma virada gigantesca (na real eu fiquei até meio confuso na hr, pq foi mt rápido).\nMe siga nas redes sociais:\nTwitter: https://twitter.com/ResmithVideos\nInstagram: https://www.instagram.com/resmithvideos/ \nDiscord: https://discord.gg/Sm9xffM (Fale comigo por lah)\nTwitch: https://www.twitch.tv/resmith (Live toda sexta à noite!)\nE se inscreva no canal :)"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT21M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NfmWWBRhpqYZmD9Dj5LgaUsAyZo",
+      "id": "18mHfQZ0Z5s",
+      "snippet": {
+        "publishedAt": "2021-01-27T04:07:07Z",
+        "channelId": "UCH5hf7EP-8I7AYpu2RtThbw",
+        "title": "LOLZIN !!",
+        "description": "Link do grupo zap\n \nhttps://chat.whatsapp.com/Jxhsva3WlZFCAeBkUE1ejj\n\n\nEspecificações \n\nXEON E5 2689\nPLACA MAE AFTERMITER X79\nGTX 1070 8gb\n16GB RAM 1600\nFONTE CORSAIR VS600\nSSD GOLDENFIR 360GB\nHD 1 TERA\nMONITOR 24'' 144HZ\n\nLink para Doações \nPaypal\n\nericlesmaia71@gmail.com\n\nMercado Pago\n\nericles_rabelo@hotmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18mHfQZ0Z5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18mHfQZ0Z5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18mHfQZ0Z5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/18mHfQZ0Z5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/18mHfQZ0Z5s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Canal do Ériclão",
+        "tags": [
+          "lol ao vivo",
+          "canal do ericlao",
+          "aduka tube",
+          "resident evil 7",
+          "CSGO AOVIVO",
+          "cs aovivo",
+          "canal do ericlao cs",
+          "ericlao",
+          "ericlão",
+          "canal do ericlão",
+          "ericlão cs",
+          "ericlão ao vivo",
+          "cs ao vivo",
+          "R7",
+          "RESIDENTEVIL",
+          "RESENDEVIL",
+          "gta5 ao vivo",
+          "gta rp",
+          "PES2021",
+          "MASTER LIGA"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LOLZIN !!",
+          "description": "Link do grupo zap\n \nhttps://chat.whatsapp.com/Jxhsva3WlZFCAeBkUE1ejj\n\n\nEspecificações \n\nXEON E5 2689\nPLACA MAE AFTERMITER X79\nGTX 1070 8gb\n16GB RAM 1600\nFONTE CORSAIR VS600\nSSD GOLDENFIR 360GB\nHD 1 TERA\nMONITOR 24'' 144HZ\n\nLink para Doações \nPaypal\n\nericlesmaia71@gmail.com\n\nMercado Pago\n\nericles_rabelo@hotmail.com"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT4H14M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f4nmi2pWWIym9rqAqScNLkh-Ekk",
+      "id": "zMejytYS2w4",
+      "snippet": {
+        "publishedAt": "2015-05-23T04:08:54Z",
+        "channelId": "UC0jnW-v_1IanHuj2y3Z1AGA",
+        "title": "paiN, Sev7n e o nugget no LoLzin",
+        "description": "Não se esqueça de deixar o seu Like e Favorito!\nE se não for inscrito, inscreva-se!\n\n-----------------------------------------------------------------------------\nInscreva-se: http://pain.gg/ytsub\n-----------------------------------------------------------------------------\n\nSiga a paiN:\nFacebook: http://pain.gg/facebook\nTwitter: http://pain.gg/twitter\nInstagram: http://pain.gg/instagram\n\n\nSponsored by:\nAzubu - http://pain.gg/Azubu\nSaraiva - http://pain.gg/saraiva\nAlpha - http://pain.gg/alpha\nRazer - http://pain.gg/razer\nG2A - http://pain.gg/g2a",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zMejytYS2w4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zMejytYS2w4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zMejytYS2w4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zMejytYS2w4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zMejytYS2w4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "paiN Gaming",
+        "tags": [
+          "paiN",
+          "Gaming",
+          "League",
+          "of",
+          "Legends",
+          "Kami",
+          "sirt",
+          "sir",
+          "thulio",
+          "razer",
+          "alpha",
+          "brasil",
+          "server",
+          "cblol",
+          "pain",
+          "responde",
+          "Dioud",
+          "brTT",
+          "LoL",
+          "G2A.com",
+          "KamiKat",
+          "Sir",
+          "Thulio",
+          "Rexpeita",
+          "E-sport",
+          "Esporte",
+          "Eletrônico",
+          "DotA",
+          "Crossfire",
+          "Azubu",
+          "Team",
+          "Razer",
+          "FPS",
+          "Games",
+          "MOBA",
+          "Strategy",
+          "Computer"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "paiN, Sev7n e o nugget no LoLzin",
+          "description": "Não se esqueça de deixar o seu Like e Favorito!\nE se não for inscrito, inscreva-se!\n\n-----------------------------------------------------------------------------\nInscreva-se: http://pain.gg/ytsub\n-----------------------------------------------------------------------------\n\nSiga a paiN:\nFacebook: http://pain.gg/facebook\nTwitter: http://pain.gg/twitter\nInstagram: http://pain.gg/instagram\n\n\nSponsored by:\nAzubu - http://pain.gg/Azubu\nSaraiva - http://pain.gg/saraiva\nAlpha - http://pain.gg/alpha\nRazer - http://pain.gg/razer\nG2A - http://pain.gg/g2a"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H45M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pn1ri3TIOXmMdP5oUUCY-ifjGKs",
+      "id": "xis8HCB8ekk",
+      "snippet": {
+        "publishedAt": "2019-12-16T14:00:12Z",
+        "channelId": "UCcFbGORNDSKBbPH3BMH6BiQ",
+        "title": "DEU BOM?! ABRINDO 33 ORBES NOITE E ALVORADA NO LOLZIN!!",
+        "description": "Coé, rapaziada.\n Rakezão na área, trazendo um vídeo abrindo orbe... MUITO ORIGINAL GALERINHA, UHU NGM VIU ESSE TIPO DE VÍDEO AINDA K K K pufavo dalike menor 3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xis8HCB8ekk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xis8HCB8ekk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xis8HCB8ekk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xis8HCB8ekk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xis8HCB8ekk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rake",
+        "tags": [
+          "LOL",
+          "ORBE",
+          "ABRINDO ORBE",
+          "ORBE LOL",
+          "LEAGUE OF LEGENDS",
+          "LEAGUE OF ORBE"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "DEU BOM?! ABRINDO 33 ORBES NOITE E ALVORADA NO LOLZIN!!",
+          "description": "Coé, rapaziada.\n Rakezão na área, trazendo um vídeo abrindo orbe... MUITO ORIGINAL GALERINHA, UHU NGM VIU ESSE TIPO DE VÍDEO AINDA K K K pufavo dalike menor 3"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kNANOtwg6q5_VdWLqrRe6Yw9STE",
+      "id": "DMNsEgBwBXw",
+      "snippet": {
+        "publishedAt": "2020-06-05T10:59:44Z",
+        "channelId": "UCxtQQ0wLGKuIK65mVF78cmg",
+        "title": "Lolzin",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DMNsEgBwBXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DMNsEgBwBXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DMNsEgBwBXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rodrigo Scabbiolo",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lolzin",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT54M10S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NRFkA4kglhKaDNVUQ5ysSnnv5TU",
+      "id": "_4WXFtoLYRs",
+      "snippet": {
+        "publishedAt": "2021-02-14T22:00:05Z",
+        "channelId": "UCS1IrXufijTGLbyaJs6r_dQ",
+        "title": "Como Manter a Calma no Lolzin - League of Legends (LOL)",
+        "description": "Fala galera, hoje vou ensinar pra vocês como controlar sua emoções e manter a calma no League of Legends, o famoso Lolzin. Mantendo a calma é quase certeza de vitória 😜 cola comigo e confere como se faz, grande abraço e tmj sempre, noiz que voa 😉🤙\n\nRedes Sociais:\nFacebook: https://www.facebook.com/aitoka10/\nInstagram: https://www.instagram.com/aitoka10/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_4WXFtoLYRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_4WXFtoLYRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_4WXFtoLYRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_4WXFtoLYRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_4WXFtoLYRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aitoka",
+        "tags": [
+          "Aitoka",
+          "Memes",
+          "Games",
+          "Zuera",
+          "Rir",
+          "league of legends memes",
+          "league of legends",
+          "league",
+          "league of legends guide",
+          "nightblue league of legends",
+          "tank league of legends",
+          "league of legends level 1",
+          "league of legends montage",
+          "league of legends trailer",
+          "masters league of legends",
+          "LOL",
+          "Lolzin",
+          "Lol momentos engraçados",
+          "Lol zuera",
+          "Quinn top",
+          "Fizz Top",
+          "Tente não rir",
+          "Liga das lendas",
+          "Leagua of legends flash",
+          "LOL Flash",
+          "Top Laner",
+          "Controle Mental no LOL",
+          "Manter a calma no LOL",
+          "LOL Tilt",
+          "Tiltado"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Como Manter a Calma no Lolzin - League of Legends (LOL)",
+          "description": "Fala galera, hoje vou ensinar pra vocês como controlar sua emoções e manter a calma no League of Legends, o famoso Lolzin. Mantendo a calma é quase certeza de vitória 😜 cola comigo e confere como se faz, grande abraço e tmj sempre, noiz que voa 😉🤙\n\nRedes Sociais:\nFacebook: https://www.facebook.com/aitoka10/\nInstagram: https://www.instagram.com/aitoka10/"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1JV9WAbo08VL4F15T9ai7CH8HlQ",
+      "id": "3XocdKcpJ5o",
+      "snippet": {
+        "publishedAt": "2021-01-14T17:29:35Z",
+        "channelId": "UCfcJIShnjGL7BVUSc0peCBg",
+        "title": "LEAGUE OF LEGENDS WILD RIFT: JOGAR DE TF (TWISTED FATE) NO LOLZIN É MUITO BOM",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3XocdKcpJ5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3XocdKcpJ5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3XocdKcpJ5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3XocdKcpJ5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Lobinho Play",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LEAGUE OF LEGENDS WILD RIFT: JOGAR DE TF (TWISTED FATE) NO LOLZIN É MUITO BOM",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT17M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZTPOeCiUi3pXSfdjDSga0iglEdc",
+      "id": "Gc73OPKNn34",
+      "snippet": {
+        "publishedAt": "2020-04-06T23:30:00Z",
+        "channelId": "UCZed_0bOXOz-PvS7PMmY5hg",
+        "title": "ASMR| Jogando LoL em Summoner's Rift | Segunda do LoLzin #6 (Sussurros, Sons de Boca)",
+        "description": "Bem vindos de volta ao meu canal!!\nse inscreve aí ❤\n\nendereço do paypal: saddieasmr@gmail.com\ncaso você queira ajudar com o canal, a comprar uma câmera decente, um fundo, iluminação, outros microfones, etc 😁\n\nTwitch: https://www.twitch.tv/saddiehue\nDiscord: https://discord.gg/VS6mesx\nInstagram: https://www.instagram.com/saddiehue/ \nTwitter: https://twitter.com/SaddieHUE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gc73OPKNn34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gc73OPKNn34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gc73OPKNn34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gc73OPKNn34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gc73OPKNn34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saddie ASMR",
+        "tags": [
+          "asmr",
+          "saddie asmr",
+          "asmr português",
+          "asmr brasil",
+          "videos para relaxar",
+          "whispers",
+          "ahri",
+          "gameplay",
+          "league of legends",
+          "ranked"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ASMR| Jogando LoL em Summoner's Rift | Segunda do LoLzin #6 (Sussurros, Sons de Boca)",
+          "description": "Bem vindos de volta ao meu canal!!\nse inscreve aí ❤\n\nendereço do paypal: saddieasmr@gmail.com\ncaso você queira ajudar com o canal, a comprar uma câmera decente, um fundo, iluminação, outros microfones, etc 😁\n\nTwitch: https://www.twitch.tv/saddiehue\nDiscord: https://discord.gg/VS6mesx\nInstagram: https://www.instagram.com/saddiehue/ \nTwitter: https://twitter.com/SaddieHUE"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT35M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0dtUfn96jeIcbSJ78-tpW7vDdeM",
+      "id": "nQ96VlmPlqY",
+      "snippet": {
+        "publishedAt": "2021-01-04T03:00:18Z",
+        "channelId": "UC2tDp8q7iV3Q8hDt6hkmQfg",
+        "title": "VAMO DE LOLZIN",
+        "description": "Support the stream: https://streamlabs.com/k4belo \nAAAH VAMO NESSAA !!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQ96VlmPlqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQ96VlmPlqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQ96VlmPlqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nQ96VlmPlqY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nQ96VlmPlqY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K4BELO",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "VAMO DE LOLZIN",
+          "description": "Support the stream: https://streamlabs.com/k4belo \nAAAH VAMO NESSAA !!"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "61BM-vVR2L8qaHpy-tFBliFkKWA",
+      "id": "2l9YaVYFQQY",
+      "snippet": {
+        "publishedAt": "2021-01-27T05:18:01Z",
+        "channelId": "UCHjYMN9DOqPSIwUb2ZgNROg",
+        "title": "lolzin",
+        "description": "Deixa o Like !!!\n\nNick game: DrogaEoDantas, Dantaaaas, Dantaaaaaaaaas, Dex-DANTAS.\n\nConfiguração PC:\nCPU AMD RYZEN R3 3200G.\nPLACA MÃE A320-HD DDR4 AM4.\n8GB MEMORIA RAM DDR4.\nHD 500GB.\nGABINETE GAMER POWERX LED AZUL.\nPLACA DE VÍDEO ATI RADEON RX550.\nFONTE ATX 500W REAL.\nSSD 120GB KINGSTON.\n\nOutros:\nMONITOR 19.5 ACER HDMI.\nMOUSE GAMER TRUST GXT 101 (600-4800 DPI).\nTECLADO GAMER MULTIMIDIA USB PRETO E LARANJA - TC211.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2l9YaVYFQQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2l9YaVYFQQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2l9YaVYFQQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2l9YaVYFQQY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2l9YaVYFQQY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Prazer Dantas",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "lolzin",
+          "description": "Deixa o Like !!!\n\nNick game: DrogaEoDantas, Dantaaaas, Dantaaaaaaaaas, Dex-DANTAS.\n\nConfiguração PC:\nCPU AMD RYZEN R3 3200G.\nPLACA MÃE A320-HD DDR4 AM4.\n8GB MEMORIA RAM DDR4.\nHD 500GB.\nGABINETE GAMER POWERX LED AZUL.\nPLACA DE VÍDEO ATI RADEON RX550.\nFONTE ATX 500W REAL.\nSSD 120GB KINGSTON.\n\nOutros:\nMONITOR 19.5 ACER HDMI.\nMOUSE GAMER TRUST GXT 101 (600-4800 DPI).\nTECLADO GAMER MULTIMIDIA USB PRETO E LARANJA - TC211."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3H4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oukmSLvuwOfYhG2swaGSRXyjv1U",
+      "id": "wYywMoRHHjQ",
+      "snippet": {
+        "publishedAt": "2020-09-29T20:20:19Z",
+        "channelId": "UC6LFVPgMzHZL2pwn-Yqq_TA",
+        "title": "Meu melhores momentos no LoLzin 💗",
+        "description": "Oi Tudo bom ? HAHA, aqui é o Oliveirinha x) \n\nBom galera jogo LoLzin a um tempo e tenho alguns videos nesse canal estou aprendendo a editar porem não tenho um equipamento bom para realizar edições magnificas e.e. Enfim se tiver alguma critica construtivadeixa ai nos comentários ^^\n\nNick Atualmente: Holy Sword\n\n★ AVISO LEGAL ★ Eu não possuo a música, arte, ou a letra. Todos os direitos reservados Para seus respectivos proprietários!!! Este vídeo não pretende violar qualquer dos direitos autorais. Isto é para promover.\n\nMusica: Cascada - Everytime We Touch (Hardwell & Maurice West Remix)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wYywMoRHHjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wYywMoRHHjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wYywMoRHHjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wYywMoRHHjQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wYywMoRHHjQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Holy Swordツ",
+        "tags": [
+          "lol",
+          "league of legends",
+          "League Of Legends",
+          "Irelia Player",
+          "Irelia montage",
+          "Irelia lol",
+          "Irelia",
+          "montage"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Meu melhores momentos no LoLzin 💗",
+          "description": "Oi Tudo bom ? HAHA, aqui é o Oliveirinha x) \n\nBom galera jogo LoLzin a um tempo e tenho alguns videos nesse canal estou aprendendo a editar porem não tenho um equipamento bom para realizar edições magnificas e.e. Enfim se tiver alguma critica construtivadeixa ai nos comentários ^^\n\nNick Atualmente: Holy Sword\n\n★ AVISO LEGAL ★ Eu não possuo a música, arte, ou a letra. Todos os direitos reservados Para seus respectivos proprietários!!! Este vídeo não pretende violar qualquer dos direitos autorais. Isto é para promover.\n\nMusica: Cascada - Everytime We Touch (Hardwell & Maurice West Remix)"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NWAT9XtLt-Hs1YwVWtNoer-SFW0",
+      "id": "hWoBQrJ5Eio",
+      "snippet": {
+        "publishedAt": "2016-12-06T02:10:57Z",
+        "channelId": "UCDuvqUE2g_ClXM8hzsHZgKg",
+        "title": "LoLzin :)",
+        "description": "Lolzin testing\n\nMultistreaming with https://restream.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hWoBQrJ5Eio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hWoBQrJ5Eio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hWoBQrJ5Eio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hWoBQrJ5Eio/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hWoBQrJ5Eio/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoshinkan",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LoLzin :)",
+          "description": "Lolzin testing\n\nMultistreaming with https://restream.io/"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT29M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tmC5NX5AFe4KySBPg0FiX_71jWY",
+      "id": "KZ_dPqrUZ7U",
+      "snippet": {
+        "publishedAt": "2021-01-02T04:55:21Z",
+        "channelId": "UC8Vl1uKoBrlWIZ_i3lqHM3A",
+        "title": "LOLZIN NAUTILÃO BRABO",
+        "description": "🔶ACESSE NOSSO SITE🔶\n🔶 https://tec4tudo.com/ 🔶\n\n🔶 CURTA ESSA LIVE ,SE INSCREVA NO CANAL 🔶 \n\n🔶🔶🔶🔶DISCORD🔶🔶🔶🔶\n🔶  https://discord.gg/xpm2ZDd  🔶\n\n⚫ ME SIGA NA TWITCH! ⚫\n\n⚫ https://twitch.tv/tec4tudo ⚫\n\n⚫ CURTA A PAGE NO FACEBOOK ! ⚫\n\n⚫https://www.facebook.com/tec4tudo ⚫\n\n⚫ ME SIGA NO TWITTER ! ⚫\n\n⚫https://twitter.com/JhefersonTec ⚫\n\n⚫ INSTAGRAN DO CANAL ⚫\n\n⚫ @TEC4TUDO ⚫\n\n🔴 TECDOLLS 🔴\n\n⚫ELOS\nFERRO - 1000 - WHITELIST NO MINECRAFT JAVA\nBRONZE - 2000\nPRATA - 3000\nGOLD - 4000\nPLATINA - 5000\nDIAMANTE - 6000\nEXPERIENTE - 7000\nÉPICO - 8000\nLENDA - 9000\nSUPREMO - 10000 \nGRAO MESTRE - 11000\nMESTRE - 12000\nDIVINO - 13000\nCONQUISTADOR - 14000\nCHALLENGER - 15000\nJOCKER - 25000 - MOD NO MINECRAFT JAVA\nKING OF TECDOLS - 30000 - ADMIN NO MINECRAFT JAVA\nTECMASTER - 50000 - MODERADOR DO CANAL\n\n🔴 CONFIGURAÇÃO DO PC 🔴\n\nPLACA MÃE - ASROCK STEEL LEGENDS B450 🔴\nPROCESSADOR - RYZEN 5 2600 🔴\n16GB RAM DDR4 2666MHZ VENEGANCE 🔴\nPLACA DE VIDEO - GTX 1660 SUPER 6GB VRAM GALAX 🔴\n512 SSD ASGARD NVME 🔴\n1 TERA HD 🔴\nWEBCAM LOGITEC BRIO 🔴\nMICROFONE NOX - KIMU PRO 🔴\n#LOL #LEAGUEOFLEGENDS #RANQUEADA #FLEX #SOLOQ #PDL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KZ_dPqrUZ7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KZ_dPqrUZ7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KZ_dPqrUZ7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KZ_dPqrUZ7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KZ_dPqrUZ7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TEC4TUDO",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LOLZIN NAUTILÃO BRABO",
+          "description": "🔶ACESSE NOSSO SITE🔶\n🔶 https://tec4tudo.com/ 🔶\n\n🔶 CURTA ESSA LIVE ,SE INSCREVA NO CANAL 🔶 \n\n🔶🔶🔶🔶DISCORD🔶🔶🔶🔶\n🔶  https://discord.gg/xpm2ZDd  🔶\n\n⚫ ME SIGA NA TWITCH! ⚫\n\n⚫ https://twitch.tv/tec4tudo ⚫\n\n⚫ CURTA A PAGE NO FACEBOOK ! ⚫\n\n⚫https://www.facebook.com/tec4tudo ⚫\n\n⚫ ME SIGA NO TWITTER ! ⚫\n\n⚫https://twitter.com/JhefersonTec ⚫\n\n⚫ INSTAGRAN DO CANAL ⚫\n\n⚫ @TEC4TUDO ⚫\n\n🔴 TECDOLLS 🔴\n\n⚫ELOS\nFERRO - 1000 - WHITELIST NO MINECRAFT JAVA\nBRONZE - 2000\nPRATA - 3000\nGOLD - 4000\nPLATINA - 5000\nDIAMANTE - 6000\nEXPERIENTE - 7000\nÉPICO - 8000\nLENDA - 9000\nSUPREMO - 10000 \nGRAO MESTRE - 11000\nMESTRE - 12000\nDIVINO - 13000\nCONQUISTADOR - 14000\nCHALLENGER - 15000\nJOCKER - 25000 - MOD NO MINECRAFT JAVA\nKING OF TECDOLS - 30000 - ADMIN NO MINECRAFT JAVA\nTECMASTER - 50000 - MODERADOR DO CANAL\n\n🔴 CONFIGURAÇÃO DO PC 🔴\n\nPLACA MÃE - ASROCK STEEL LEGENDS B450 🔴\nPROCESSADOR - RYZEN 5 2600 🔴\n16GB RAM DDR4 2666MHZ VENEGANCE 🔴\nPLACA DE VIDEO - GTX 1660 SUPER 6GB VRAM GALAX 🔴\n512 SSD ASGARD NVME 🔴\n1 TERA HD 🔴\nWEBCAM LOGITEC BRIO 🔴\nMICROFONE NOX - KIMU PRO 🔴\n#LOL #LEAGUEOFLEGENDS #RANQUEADA #FLEX #SOLOQ #PDL"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT2H16M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2nS1XBoZruSOJnO9gIOAaaxqoi8",
+      "id": "uLm-Cb6yXHE",
+      "snippet": {
+        "publishedAt": "2021-01-17T11:10:47Z",
+        "channelId": "UCUaGHOGaJ3DX_2QfuojEl8Q",
+        "title": "Lolzin",
+        "description": "http://www.nopi.ng/xsalsalol",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uLm-Cb6yXHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uLm-Cb6yXHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uLm-Cb6yXHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uLm-Cb6yXHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uLm-Cb6yXHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Joao Vitor",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lolzin",
+          "description": "http://www.nopi.ng/xsalsalol"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT11H54M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T7ZXKLn_QEYHd8W3iJk-aPKhi7M",
+      "id": "BME6rC_UXag",
+      "snippet": {
+        "publishedAt": "2020-04-24T23:26:41Z",
+        "channelId": "UCyFUeg6fP49t6ckXJvJw11Q",
+        "title": "Lolzin de levis",
+        "description": "Live pra descontrair , se inscreva, curta e compartilhe pra fortalecer :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BME6rC_UXag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BME6rC_UXag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BME6rC_UXag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BME6rC_UXag/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BME6rC_UXag/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Maluco Doido",
+        "tags": [
+          "#ranked",
+          "#leagueoflegends",
+          "#competitivo"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lolzin de levis",
+          "description": "Live pra descontrair , se inscreva, curta e compartilhe pra fortalecer :)"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H27M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ppaRLCfJNRbbORjX6QusQ0GvHRg",
+      "id": "l3r7LNkHZbA",
+      "snippet": {
+        "publishedAt": "2019-06-20T16:17:06Z",
+        "channelId": "UCr1wqX5hZrwnwZxwQNQQb1A",
+        "title": "Lolzin com os broadway heawuih",
+        "description": "Lolzin sem compromisso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l3r7LNkHZbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l3r7LNkHZbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l3r7LNkHZbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "coquemad",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lolzin com os broadway heawuih",
+          "description": "Lolzin sem compromisso"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H5M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "az7RhEtJu5UZLlC3D3ezNthzTYc",
+      "id": "U4yPprJJRQs",
+      "snippet": {
+        "publishedAt": "2020-12-23T14:44:08Z",
+        "channelId": "UCS1B8sRi_8cvfFruw_h8F3g",
+        "title": "lolzin de cada dia",
+        "description": "Facebook : https://www.facebook.com/Bjorniels\nhttps://www.twitch.tv/bjorniels\nhttps://twitter.com/Bjorniels\nemail: astrignar@gmail.com\n--------------------------------------------------------------------------------------------------------------------\n#leagueoflegends #leagueoflegendsbrasil #gamer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U4yPprJJRQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U4yPprJJRQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4yPprJJRQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U4yPprJJRQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U4yPprJJRQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bjorniels",
+        "tags": [
+          "jogo",
+          "online",
+          "rainbow",
+          "lol",
+          "pc",
+          "gamer",
+          "pc gamer",
+          "steam",
+          "ubisoft"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "lolzin de cada dia",
+          "description": "Facebook : https://www.facebook.com/Bjorniels\nhttps://www.twitch.tv/bjorniels\nhttps://twitter.com/Bjorniels\nemail: astrignar@gmail.com\n--------------------------------------------------------------------------------------------------------------------\n#leagueoflegends #leagueoflegendsbrasil #gamer"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "o-tmEqUJBuwMeHiYuFXN7-N5B58",
+      "id": "qNAXz_gmD64",
+      "snippet": {
+        "publishedAt": "2020-12-25T01:35:08Z",
+        "channelId": "UCI04ozGR1yZvFbkY5CCJlCA",
+        "title": "lolzin",
+        "description": "GPU: GeForce GTX 1660 SUPER\nCPU: AMD Ryzen 5 3600X 6-Core Processor\nMemória: 16 GB RAM (15.91 GB RAM utilizável)\nResolução atual: 1920 x 1080, 144Hz\nSistema operacional:",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qNAXz_gmD64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qNAXz_gmD64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qNAXz_gmD64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qNAXz_gmD64/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qNAXz_gmD64/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Niet Um Gato",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "lolzin",
+          "description": "GPU: GeForce GTX 1660 SUPER\nCPU: AMD Ryzen 5 3600X 6-Core Processor\nMemória: 16 GB RAM (15.91 GB RAM utilizável)\nResolução atual: 1920 x 1080, 144Hz\nSistema operacional:"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT19M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZVEDgv348J2BK-vzl6SFCGSW3wI",
+      "id": "7n8quhUcRTc",
+      "snippet": {
+        "publishedAt": "2020-07-09T14:48:25Z",
+        "channelId": "UC0kpzkmFehH-unCTtfdaWbA",
+        "title": "Lolzin com os amigos",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7n8quhUcRTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7n8quhUcRTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7n8quhUcRTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "lukas balby",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lolzin com os amigos",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT9H58M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "CU",
+            "IR",
+            "KP",
+            "SY"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IKU459GlCrqh4hIp4qP2CGV7_vE",
+      "id": "mRG9xe4ZtH0",
+      "snippet": {
+        "publishedAt": "2020-12-28T04:39:54Z",
+        "channelId": "UCwLJmIHAGlsHtH9pWmbzFGA",
+        "title": "(LIVE) TESTANDO NOVOS CAMPEÕES NO LOLZIN #leagueoflegends #lol #live",
+        "description": "BIEN VENIDOS MUCHACHOS PRA LIVE DO CANAL\nDEIXEM MUITO O LIKE MUCHACHITO PRA FORTALECER A LIVE\nSE INSCREVA QUEM FR NOVO AI\nE COMPARTILHEM MUITO\nrede sociais\ninstagram : @ecletigamer\ntwitter : ecletigamer\nfan page : ecletigamer\nmuchachos se quiserem doar qualquer quantia para dar uma força no canal\nDOAÇÃO : https://streamlabs.com/ecletigamer1/tip",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mRG9xe4ZtH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mRG9xe4ZtH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mRG9xe4ZtH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mRG9xe4ZtH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mRG9xe4ZtH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ecletigamer",
+        "tags": [
+          "league of legends brasil",
+          "league of legends gameplay",
+          "league of legends ao vivo",
+          "league of legends nasus",
+          "league of legends br",
+          "league of legends junlge",
+          "league of legends hecarim",
+          "league of legends gameplay pt br",
+          "league of legends garen",
+          "league of legends itens",
+          "league of legends jogando",
+          "league of legends playlist",
+          "league of legends personagens",
+          "league of legends 2020",
+          "league of legends cinematic",
+          "league of legends music",
+          "temporada 2021 lol",
+          "league of legends animação"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "(LIVE) TESTANDO NOVOS CAMPEÕES NO LOLZIN #leagueoflegends #lol #live",
+          "description": "BIEN VENIDOS MUCHACHOS PRA LIVE DO CANAL\nDEIXEM MUITO O LIKE MUCHACHITO PRA FORTALECER A LIVE\nSE INSCREVA QUEM FR NOVO AI\nE COMPARTILHEM MUITO\nrede sociais\ninstagram : @ecletigamer\ntwitter : ecletigamer\nfan page : ecletigamer\nmuchachos se quiserem doar qualquer quantia para dar uma força no canal\nDOAÇÃO : https://streamlabs.com/ecletigamer1/tip"
+        },
+        "defaultAudioLanguage": "pt"
+      },
+      "contentDetails": {
+        "duration": "PT3H13M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nHvqtcEr6HJwO0BtsFERM9XInBo",
+      "id": "Ws2KJNDyS18",
+      "snippet": {
+        "publishedAt": "2020-11-03T15:00:06Z",
+        "channelId": "UCYpiqjIxJ3FzmydzVwlVDwg",
+        "title": "Highlights no Lolzin",
+        "description": "Aquele site roxinho de onde foi tirado alguns clipes: https://www.twitch.tv/alanshowce\nEm breve mais clipes de cs e LoL vllw rapeize",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ws2KJNDyS18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ws2KJNDyS18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ws2KJNDyS18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ws2KJNDyS18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ws2KJNDyS18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "4lan Do CS",
+        "tags": [
+          "#Highlights",
+          "#lol",
+          "#Highlights League Of Legends",
+          "#Highlights MonoKat",
+          "#Highlights Yasuo",
+          "#Highlights Katarina"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt",
+        "localized": {
+          "title": "Highlights no Lolzin",
+          "description": "Aquele site roxinho de onde foi tirado alguns clipes: https://www.twitch.tv/alanshowce\nEm breve mais clipes de cs e LoL vllw rapeize"
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tyfVCKRlYyXOvyNzTYxImagRaYE",
+      "id": "eAO7udQ-K1o",
+      "snippet": {
+        "publishedAt": "2021-02-12T19:35:16Z",
+        "channelId": "UC8o0HdSBq53hp9Aahng77lA",
+        "title": "lolzin de cria brota!!",
+        "description": "SALVE RAPAZIADA MAIS UM VIDEO INSANO PRA VCS ESPERO QUE GOSTEM !!\n\nMeu canal : https://www.youtube.com/channel/UC8o0HdSBq53hp9Aahng77lA\n\nMeu instagram : https://www.instagram.com/invites/con...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eAO7udQ-K1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eAO7udQ-K1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eAO7udQ-K1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eAO7udQ-K1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eAO7udQ-K1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lucian",
+        "tags": [
+          "jogos",
+          "lol",
+          "league of legends",
+          "dinheiro",
+          "pokemon",
+          "videos",
+          "stream",
+          "live"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "pt-BR",
+        "localized": {
+          "title": "lolzin de cria brota!!",
+          "description": "SALVE RAPAZIADA MAIS UM VIDEO INSANO PRA VCS ESPERO QUE GOSTEM !!\n\nMeu canal : https://www.youtube.com/channel/UC8o0HdSBq53hp9Aahng77lA\n\nMeu instagram : https://www.instagram.com/invites/con..."
+        },
+        "defaultAudioLanguage": "pt-BR"
+      },
+      "contentDetails": {
+        "duration": "PT2H31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ttfg_j9VW6XFE1GHNm9-BSHsxn8",
+      "id": "9n-VDdrsO6k",
+      "snippet": {
+        "publishedAt": "2021-01-12T11:36:14Z",
+        "channelId": "UC-olC8kdGGH49CfTmOqsIrg",
+        "title": "LOLZIN LIVE ON",
+        "description": "LOLZIN GAMEPLAY\nINSCREVA-SE: https://www.youtube.com/channel/UC-olC8kdGGH49CfTmOqsIrg\nATIVE O 🔔 DAS NOTIFICAÇÕES.\n\nSE VOCÊ É INICIANTE NO POINT BLANK, AQUI ESTÁ UMA PLAYLIST PARA VOCÊ MELHORAR NO JOGO:\nhttps://www.youtube.com/watch?v=hM6w1fesLgU&list=PLAHMqbQA9k_Ov0zWvgKW5EEVWPLyJCEOu\n▬▬▬▬▬▬▬▬▬ REDES SOCIAIS ▬▬▬▬▬▬▬▬▬\nFACEBOOK ► https://www.facebook.com/cleitondamasco\nINSTAGRAM ► https://www.instagram.com/cleitondamasco\nTWITTER ► https://twitter.com/cleitondamasco\n\n▬▬▬▬▬▬▬▬CONFIGURAÇÃO DO MEU PC▬▬▬▬▬▬▬▬\n\n-radeon 7600m.\n-i5 de 2 geração.\n-8g de memoria ram.\n- MB TUF B360M-PLUS GAMING.\n-HD DE 1 TERA.\n▬▬▬▬▬▬▬▬▬▬\nMuito obrigado, grande abraço e falou!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9n-VDdrsO6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9n-VDdrsO6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9n-VDdrsO6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9n-VDdrsO6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9n-VDdrsO6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cleiton Damaceno",
+        "tags": [
+          "PB POINT BLANK"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LOLZIN LIVE ON",
+          "description": "LOLZIN GAMEPLAY\nINSCREVA-SE: https://www.youtube.com/channel/UC-olC8kdGGH49CfTmOqsIrg\nATIVE O 🔔 DAS NOTIFICAÇÕES.\n\nSE VOCÊ É INICIANTE NO POINT BLANK, AQUI ESTÁ UMA PLAYLIST PARA VOCÊ MELHORAR NO JOGO:\nhttps://www.youtube.com/watch?v=hM6w1fesLgU&list=PLAHMqbQA9k_Ov0zWvgKW5EEVWPLyJCEOu\n▬▬▬▬▬▬▬▬▬ REDES SOCIAIS ▬▬▬▬▬▬▬▬▬\nFACEBOOK ► https://www.facebook.com/cleitondamasco\nINSTAGRAM ► https://www.instagram.com/cleitondamasco\nTWITTER ► https://twitter.com/cleitondamasco\n\n▬▬▬▬▬▬▬▬CONFIGURAÇÃO DO MEU PC▬▬▬▬▬▬▬▬\n\n-radeon 7600m.\n-i5 de 2 geração.\n-8g de memoria ram.\n- MB TUF B360M-PLUS GAMING.\n-HD DE 1 TERA.\n▬▬▬▬▬▬▬▬▬▬\nMuito obrigado, grande abraço e falou!"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT9M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Fw2NqC6HTc7cIgMQfWkG2S6pFoo",
+      "id": "JLr7rvsHrYQ",
+      "snippet": {
+        "publishedAt": "2020-02-25T14:45:12Z",
+        "channelId": "UC5Cc1z6OK8grKvP3fc741VQ",
+        "title": "LoLzin Da Zueira @NerdTerror",
+        "description": "▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬\n                            ★ ★ OLHE A DESCRIÇÃO★ ★ \n\n➤ Inscreva-se https://www.youtube.com/c/NerdTerror\n\n★ Bora Curtir ✔Comentar ✔Compartilhar ✔Inscrever-Se ✔\n\n★ Discord do Canal➤ https://discord.com/invite/9PGxWMW\n\n★ Sonhe, Lute, Corra Atrás, Mais Nunca Desista Pois Nada é Impossível Quando Se Temos Foco, Força e Fé, Obrigado Por Tudo!!\n\n\n★ ★ ★Redes Sociais★ ★ ★\n\n➤Twitter➤ https://twitter.com/Marcelo_Vascoo?la...\n\n➤Instagram➤ https://www.instagram.com/marcelo_vascoo/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JLr7rvsHrYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JLr7rvsHrYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JLr7rvsHrYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JLr7rvsHrYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JLr7rvsHrYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NerdTerror",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LoLzin Da Zueira @NerdTerror",
+          "description": "▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬\n                            ★ ★ OLHE A DESCRIÇÃO★ ★ \n\n➤ Inscreva-se https://www.youtube.com/c/NerdTerror\n\n★ Bora Curtir ✔Comentar ✔Compartilhar ✔Inscrever-Se ✔\n\n★ Discord do Canal➤ https://discord.com/invite/9PGxWMW\n\n★ Sonhe, Lute, Corra Atrás, Mais Nunca Desista Pois Nada é Impossível Quando Se Temos Foco, Força e Fé, Obrigado Por Tudo!!\n\n\n★ ★ ★Redes Sociais★ ★ ★\n\n➤Twitter➤ https://twitter.com/Marcelo_Vascoo?la...\n\n➤Instagram➤ https://www.instagram.com/marcelo_vascoo/"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GbMCfxyxz80vwfRv3SELvksqvKk",
+      "id": "07EjtGbQ-c4",
+      "snippet": {
+        "publishedAt": "2020-12-21T16:19:20Z",
+        "channelId": "UCYnRqDv0AYhJqhyKbbSIdRQ",
+        "title": "Jogando Lolzin",
+        "description": "https://streamlabs.com/reasonofthegalaxy \n⚛ INSCREVA-SE NO CANAL ⚛\nhttps://goo.gl/VniX1r",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/07EjtGbQ-c4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/07EjtGbQ-c4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/07EjtGbQ-c4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/07EjtGbQ-c4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/07EjtGbQ-c4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Reason Of the Galaxy",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jogando Lolzin",
+          "description": "https://streamlabs.com/reasonofthegalaxy \n⚛ INSCREVA-SE NO CANAL ⚛\nhttps://goo.gl/VniX1r"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H31M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CMH4Q-seL8jtOBDlnSA1ltod71o",
+      "id": "PDyMh6yachA",
+      "snippet": {
+        "publishedAt": "2018-12-22T22:06:29Z",
+        "channelId": "UC2vB7ersHmIGh7BWG55wH9A",
+        "title": "Lolzin",
+        "description": "Game : https://br.leagueoflegends.com/pt/\nApelido : StarkAlexII",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PDyMh6yachA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PDyMh6yachA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PDyMh6yachA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Roberto Alexandre",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lolzin",
+          "description": "Game : https://br.leagueoflegends.com/pt/\nApelido : StarkAlexII"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT17M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ooEOyt9xohVf_lA3_FuFwFNwljM",
+      "id": "uvsQ_OF4hwo",
+      "snippet": {
+        "publishedAt": "2021-01-08T01:01:10Z",
+        "channelId": "UCbcRRvJmQQCZVMacLPc8wYQ",
+        "title": "Highlitghts de lolzin",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uvsQ_OF4hwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uvsQ_OF4hwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uvsQ_OF4hwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uvsQ_OF4hwo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uvsQ_OF4hwo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JoãoVsR",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Highlitghts de lolzin",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "O67a0ELc-NTH7cPiVyn61LtALhc",
+      "id": "5c3Ef1oqTGQ",
+      "snippet": {
+        "publishedAt": "2020-09-14T02:16:25Z",
+        "channelId": "UCbW24WQDH_gDVFeePKWx8Cg",
+        "title": "Lolzin",
+        "description": "Powered by Restream https://restream.io/\n\nChega mais pessoal, Bora jogar deixe o nick nos comentários que estarei chamando",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5c3Ef1oqTGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5c3Ef1oqTGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5c3Ef1oqTGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5c3Ef1oqTGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5c3Ef1oqTGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "weliton gamers",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lolzin",
+          "description": "Powered by Restream https://restream.io/\n\nChega mais pessoal, Bora jogar deixe o nick nos comentários que estarei chamando"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H40M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AnaG5XZV9jqk20ZyjPd_-8-H6ZI",
+      "id": "7kNWHXHCTJs",
+      "snippet": {
+        "publishedAt": "2019-09-06T08:22:10Z",
+        "channelId": "UCjtvKMtfad210WOwy22QsQg",
+        "title": "LOLzin da Madrugada",
+        "description": "Bora de LOLzin HJ =)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7kNWHXHCTJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7kNWHXHCTJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kNWHXHCTJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Geeh Zilli",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LOLzin da Madrugada",
+          "description": "Bora de LOLzin HJ =)"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4H21M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gC-2zthjbq2d8x3kX_NlGTeqmaY",
+      "id": "c0sIXqI3JIo",
+      "snippet": {
+        "publishedAt": "2020-03-18T05:01:04Z",
+        "channelId": "UC6R7LAvtIoVQkmjiHmb5-tg",
+        "title": "Lolzin",
+        "description": "GPU: GeForce GTX 650\nCPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz\nMemória: 12 GB RAM (11.96 GB RAM utilizável)\nResolução atual: 1366 x 768, 60Hz\nSistema operacional:",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c0sIXqI3JIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c0sIXqI3JIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c0sIXqI3JIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "u Hyper",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lolzin",
+          "description": "GPU: GeForce GTX 650\nCPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz\nMemória: 12 GB RAM (11.96 GB RAM utilizável)\nResolução atual: 1366 x 768, 60Hz\nSistema operacional:"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT31M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LuJYoDv1GonzlqdPj4S_-zZLC04",
+      "id": "5UH5au6lcpg",
+      "snippet": {
+        "publishedAt": "2019-08-31T02:57:51Z",
+        "channelId": "UCjtvKMtfad210WOwy22QsQg",
+        "title": "LOLzin da Madrugada",
+        "description": "Bora mitar HJ no LOLzin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5UH5au6lcpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5UH5au6lcpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5UH5au6lcpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Geeh Zilli",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LOLzin da Madrugada",
+          "description": "Bora mitar HJ no LOLzin"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tCe3iGM6vjybuaYwAhbGFXPM6Xg",
+      "id": "SLC-n7wrmbI",
+      "snippet": {
+        "publishedAt": "2020-09-01T13:00:09Z",
+        "channelId": "UCN6Qbq2dhQrmzCPuNLXzXjw",
+        "title": "LOLZIN PRA MATAR A SAUDADE",
+        "description": "Hello guys!\n\nFaz tempo que não posto nada das plays de lolzin. Então fica ai as partidas de umas semanas passadas 😁\n\nCurtiu? Comenta e compartilha com os amigos 😋\n\nSegue no insta: https://www.instagram.com/yakkodovale\nLive na semana às 22:00 em https://www.twitch.tv/yakkodovale\nCurta minha page no face: https://www.facebook.com/YakkoShiva\n\n#lolzin #leagueoflegends #ranked",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SLC-n7wrmbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SLC-n7wrmbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SLC-n7wrmbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SLC-n7wrmbI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Yakko do vale",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LOLZIN PRA MATAR A SAUDADE",
+          "description": "Hello guys!\n\nFaz tempo que não posto nada das plays de lolzin. Então fica ai as partidas de umas semanas passadas 😁\n\nCurtiu? Comenta e compartilha com os amigos 😋\n\nSegue no insta: https://www.instagram.com/yakkodovale\nLive na semana às 22:00 em https://www.twitch.tv/yakkodovale\nCurta minha page no face: https://www.facebook.com/YakkoShiva\n\n#lolzin #leagueoflegends #ranked"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xyIx-l7yGmkMBpM1QOKXJJt5f14",
+      "id": "J3SJVGfPIyo",
+      "snippet": {
+        "publishedAt": "2021-01-14T15:04:55Z",
+        "channelId": "UCA0rk-BqWT5xGg4lG0AfXIA",
+        "title": "lolzin",
+        "description": "Powered by Restream https://restream.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J3SJVGfPIyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J3SJVGfPIyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J3SJVGfPIyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J3SJVGfPIyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J3SJVGfPIyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blau Blau",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "lolzin",
+          "description": "Powered by Restream https://restream.io/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT9M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  }
+}
