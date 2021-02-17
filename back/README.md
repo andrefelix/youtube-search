@@ -36,3 +36,5 @@ npm run lint:fix
 DATA_API_KEY=[YOUR_API_KEY]
 ````
 onde YOUR_API_KEY deve ser substituido pela sua API KEY do Youtube.
+
+Veja em [Youtube Data API](https://developers.google.com/youtube/v3).
