@@ -56,6 +56,34 @@ const calculateDaysToWatch = (
   return daysToWatch;
 };
 
+/**
+ * Resolve e retorna as 5 palavras mais usadas, contando com os títulos e
+ * descrições dos vídeos.
+ * @param {Array} items
+ * @returns {Array<string>}
+ */
+const solveMostUsedWords = (
+  items: Array<{ title: string; description: string }>
+): Array<string> => {
+  const mapped: Record<string, number> = {};
+  let words: Array<string> = [];
+
+  items.forEach((item) => {
+    words = [...words, ...item.title.toLocaleLowerCase().split(' ')];
+    words = [...words, ...item.description.toLocaleLowerCase().split(' ')];
+  });
+
+  words.forEach((word) => {
+    mapped[word] = !mapped[word] ? 1 : mapped[word] + 1;
+  });
+
+  const mostUsedWords = Object.entries(mapped)
+    .sort((arrA, arrB) => arrB[1] - arrA[1])
+    .map((arrWord) => arrWord[0]);
+
+  return mostUsedWords.slice(0, 5);
+};
+
 const SearchTerm = (): SearchTermInterface => {
   const getIDsByTerm = async (term: string): Promise<Array<string>> => {
     const data = await youtubeDataAPIService.searchByTerm(term);
@@ -100,9 +128,19 @@ const SearchTerm = (): SearchTermInterface => {
 
       const ids = await getIDsByTerm(term);
       const videos = await getVideosByIDs(ids);
+
       const daysToWatch = calculateDaysToWatch(
         minutesAvailableArr,
         videos.items.map((video) => (video.fileDetails.durationMs / 1000) * 60)
+      );
+
+      const mostUsedWords = solveMostUsedWords(
+        videos.items.map((videos) => {
+          return {
+            title: videos.snippet.title,
+            description: videos.snippet.description
+          };
+        })
       );
 
       return httpResponse.ok();
@@ -118,4 +156,4 @@ const SearchTerm = (): SearchTermInterface => {
   return { execute };
 };
 
-export { SearchTerm, calculateDaysToWatch };
+export { SearchTerm, calculateDaysToWatch, solveMostUsedWords };
