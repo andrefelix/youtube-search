@@ -4,7 +4,7 @@ interface YoutubeDataAPIVideoListItem {
     description: string;
     thumbnails: { default: { url: string; width: number; height: number } };
   };
-  fileDetails: { durationMs: number };
+  contentDetails: { duration: string };
   player: { embedHtml: string };
 }
 

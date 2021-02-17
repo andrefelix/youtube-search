@@ -45,9 +45,8 @@ const YoutubeDataAPIService = (): YoutubeDataAPIServiceInterface => {
     ids: Array<string>
   ): Promise<YoutubeDataAPIVideosList> => {
     const response = await axiosInstance.get('/videos', {
-      params: { part: 'snippet,fileDetails', id: ids.join(',') }
+      params: { part: 'snippet,contentDetails,player', id: ids.join(',') }
     });
-
     return response.data;
   };
 
