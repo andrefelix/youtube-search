@@ -1,5 +1,9 @@
 import { Request } from 'express';
-import { SearchTerm, calculateDaysToWatch } from '../controllers/searchTerm';
+import {
+  SearchTerm,
+  calculateDaysToWatch,
+  solveMostUsedWords
+} from '../controllers/searchTerm';
 import { ErrorResponseInterface } from '../interfaces/errorResponseInterface';
 import { missingParamError, invalidParamError } from '../helpers/paramError';
 
@@ -112,5 +116,23 @@ describe('SearchTerm', () => {
     const days = calculateDaysToWatch(minutesWeek, durations);
 
     expect(days).toEqual(1);
+  });
+
+  it('deveria retornar as 5 palavras com maior número de repetições nos Arrays fornecidos', () => {
+    const items = [
+      {
+        title: 'uma duas duas',
+        description: 'três três três'
+      },
+      {
+        title: 'quatro quatro quatro quatro',
+        description: 'cinco cinco cinco cinco cinco'
+      }
+    ];
+
+    const expected = ['cinco', 'quatro', 'três', 'duas', 'uma'];
+    const mostUsedWords = solveMostUsedWords(items);
+
+    expect(mostUsedWords).toEqual(expected);
   });
 });
