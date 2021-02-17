@@ -86,6 +86,18 @@ const solveMostUsedWords = (
   return mostUsedWords.slice(0, 5);
 };
 
+/**
+ * Converte string ISO 8601 para seu valor correspondente em minutos.
+ * @param {string} durantion
+ * @returns {number}
+ */
+const ISO8601ToMinutes = (durantion: string): number => {
+  const [hours] = durantion.match(/\d[0-9][H]/) || ['0'];
+  const [minutes] = durantion.match(/\d[0-9][H]/) || ['0'];
+
+  return parseInt(hours, 10) * 60 + parseInt(minutes, 10);
+};
+
 const SearchTerm = (): SearchTermInterface => {
   const getIDsByTerm = async (term: string): Promise<Array<string>> => {
     const data = await youtubeDataAPIService.searchByTerm(term);
@@ -136,7 +148,7 @@ const SearchTerm = (): SearchTermInterface => {
       const responseData: SearchTermResponseDataInterface = {
         daysToWatch: calculateDaysToWatch(
           minutesAvailableArr,
-          videos.map((video) => (video.fileDetails.durationMs / 1000) * 60)
+          videos.map((video) => ISO8601ToMinutes(video.contentDetails.duration))
         ),
 
         mostUsedWords: solveMostUsedWords(
