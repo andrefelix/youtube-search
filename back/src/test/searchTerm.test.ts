@@ -144,6 +144,30 @@ describe('SearchTerm', () => {
       expect(mostUsedWords).toEqual(expected);
     });
 
+    it('deveria retornar palavra vazia, caso o título e descrição sejam fornecidos com vários espaços', () => {
+      const items = [
+        { title: '  ', description: '  ' },
+        { title: '  ', description: '  ' }
+      ];
+
+      const expected = [''];
+      const mostUsedWords = solveMostUsedWords(items);
+
+      expect(mostUsedWords).toEqual(expected);
+    });
+
+    it('deveria retornar palavra vazia, caso o título e descrição sejam fornecidos com texto vazio', () => {
+      const items = [
+        { title: '', description: '' },
+        { title: '', description: '' }
+      ];
+
+      const expected = [''];
+      const mostUsedWords = solveMostUsedWords(items);
+
+      expect(mostUsedWords).toEqual(expected);
+    });
+
     it('deveria retornar o valor em minutos corretos de uma string no formato ISO 8601', () => {
       expect(ISO8601ToMinutes('')).toEqual(0);
       expect(ISO8601ToMinutes('PT0H0M0S')).toEqual(0);
