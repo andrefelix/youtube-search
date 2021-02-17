@@ -2,7 +2,8 @@ import { Request } from 'express';
 import {
   SearchTerm,
   calculateDaysToWatch,
-  solveMostUsedWords
+  solveMostUsedWords,
+  ISO8601ToMinutes
 } from '../controllers/searchTerm';
 import { ErrorResponseInterface } from '../interfaces/errorResponseInterface';
 import { missingParamError, invalidParamError } from '../helpers/paramError';
@@ -135,5 +136,13 @@ describe('SearchTerm', () => {
     const mostUsedWords = solveMostUsedWords(items);
 
     expect(mostUsedWords).toEqual(expected);
+  });
+
+  it('deveria retornar o valor em minutos corretos de uma string no formato ISO 8601', () => {
+    expect(ISO8601ToMinutes('')).toEqual(0);
+    expect(ISO8601ToMinutes('PT0H0M0S')).toEqual(0);
+    expect(ISO8601ToMinutes('PT10M19S')).toEqual(10);
+    expect(ISO8601ToMinutes('PT3H20M14S')).toEqual(200);
+    expect(ISO8601ToMinutes('PT12H0M0S')).toEqual(720);
   });
 });
