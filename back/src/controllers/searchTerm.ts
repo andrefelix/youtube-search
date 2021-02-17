@@ -92,8 +92,8 @@ const solveMostUsedWords = (
  * @returns {number}
  */
 const ISO8601ToMinutes = (durantion: string): number => {
-  const [hours] = durantion.match(/\d[0-9][H]/) || ['0'];
-  const [minutes] = durantion.match(/\d[0-9][H]/) || ['0'];
+  const [hours] = durantion.match(/\d{1,2}[H]/) || ['0'];
+  const [minutes] = durantion.match(/\d{1,2}[M]/) || ['0'];
 
   return parseInt(hours, 10) * 60 + parseInt(minutes, 10);
 };
@@ -176,4 +176,9 @@ const SearchTerm = (): SearchTermInterface => {
   return { execute };
 };
 
-export { SearchTerm, calculateDaysToWatch, solveMostUsedWords };
+export {
+  SearchTerm,
+  calculateDaysToWatch,
+  solveMostUsedWords,
+  ISO8601ToMinutes
+};
