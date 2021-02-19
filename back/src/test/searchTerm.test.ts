@@ -102,7 +102,7 @@ describe('SearchTerm', () => {
       expect(days).toEqual(8);
     });
 
-    it('deveria retornar 0 dias quando não houver vídeos co duração inferior ao minuto máximo disponível na semana', () => {
+    it('deveria retornar 0 dias quando não houver vídeos com duração inferior ao minuto máximo disponível na semana', () => {
       const minutesWeek = [15, 120, 30, 150, 20, 40, 90];
       const durations = [151, 151, 151, 151, 151, 151];
       const days = calculateDaysToWatch(minutesWeek, durations);
@@ -118,7 +118,7 @@ describe('SearchTerm', () => {
       expect(days).toEqual(1);
     });
 
-    it('deveria retornar 1 dia caso todas as durações forem 1 e o tempo do primeiro dia da semana for 15', () => {
+    it('deveria retornar 1 dia caso existir 15 durações de 1 minuto e o tempo do primeiro dia da semana for 15', () => {
       const minutesWeek = [15, 120, 30, 150, 20, 40, 90];
       const durations = new Array(15).fill(1);
       const days = calculateDaysToWatch(minutesWeek, durations);
@@ -126,7 +126,7 @@ describe('SearchTerm', () => {
       expect(days).toEqual(1);
     });
 
-    it('deveria retornar as 5 palavras com maior número de repetições nos Arrays fornecidos', () => {
+    it('deveria retornar as 5 palavras com maior número de repetições nos textos fornecidos', () => {
       const items = [
         {
           title: 'uma duas duas',
@@ -144,7 +144,7 @@ describe('SearchTerm', () => {
       expect(mostUsedWords).toEqual(expected);
     });
 
-    it('deveria retornar palavra vazia, caso o título e descrição sejam fornecidos com vários espaços', () => {
+    it('deveria retornar palavra vazia, caso o título e descrição forem fornecidos com vários espaços', () => {
       const items = [
         { title: '  ', description: '  ' },
         { title: '  ', description: '  ' }
@@ -156,7 +156,7 @@ describe('SearchTerm', () => {
       expect(mostUsedWords).toEqual(expected);
     });
 
-    it('deveria retornar palavra vazia, caso o título e descrição sejam fornecidos com texto vazio', () => {
+    it('deveria retornar palavra vazia, caso o título e descrição forem fornecidos com string vazia', () => {
       const items = [
         { title: '', description: '' },
         { title: '', description: '' }
