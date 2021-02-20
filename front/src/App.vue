@@ -1,17 +1,19 @@
 <template>
+  <MinutesWeek msg="Minutes Week" />
   <SearchBox msg="Search Box" />
   <VideoList msg="Video List" />
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
+import MinutesWeek from "./components/MinutesWeek.vue";
 import SearchBox from "./components/SearchBox.vue";
 import VideoList from "./components/VideoList.vue";
 import { YoutubeDataAPIService } from "./services/YoutubeDataAPIService";
 
 export default defineComponent({
   name: "App",
-  components: { SearchBox, VideoList },
+  components: { MinutesWeek, SearchBox, VideoList },
   mounted() {
     const service = YoutubeDataAPIService();
 
